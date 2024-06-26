@@ -22,6 +22,9 @@
                           <a class="nav-link" href="#">Risultati</a>
                         </li>
                         <li class="nav-item">
+                          <a class="nav-link" href="#">Acquista</a>
+                        </li>
+                        <li class="nav-item">
                           <a class="nav-link" href="#">Chi Siamo</a>
                         </li>
                         <li class="nav-item">
@@ -51,12 +54,12 @@
                 </div>
               </div>
               <button class="carousel-control-prev" type="button" data-bs-target="#carouselExample" data-bs-slide="prev">
-                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                <span class="carousel-control-prev-icon arrow" aria-hidden="true"></span>
                 <span class="visually-hidden">Previous</span>
               </button>
               <button class="carousel-control-next" type="button" data-bs-target="#carouselExample" data-bs-slide="next">
-                <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                <span class="visually-hidden">Next</span>
+                <span class="carousel-control-next-icon arrow" aria-hidden="true"></span>
+                <span class="visually-hidden ">Next</span>
               </button>
       </div>
   </section>
@@ -102,5 +105,14 @@ body {
     .project-card:hover {
       transform: translateY(-5px);
     }
+
+.arrow{
+  background-color: black;
+  width: 45px;
+  height: 55px;
+  padding: 1rem;
+  border-radius: 20px;
+}
+
 
 </style>
