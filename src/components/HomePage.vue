@@ -41,17 +41,37 @@
 
   </header>
 
-  <!-- Carousel -->
-  <section>
-      
-  </section>
-
   <!-- Risultati -->
   <section>
-    <div class="container">
+    <div class="">
       <div class="row">
-        <div class="col-2">
-          
+        <div class="col-6 bg-dark">
+          <h1 class="text-uppercase fw-bold text-white p-3">
+            Il Percorso
+          </h1>
+          <p class="text-white fw-bold text-uppercase p-3">
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem consequuntur repellendus quibusdam iusto exercitationem suscipit natus ipsam, recusandae, quam eius iure consectetur esse ex voluptates, facere ad quis modi est?
+            Asperiores delectus tempore ab id vel suscipit cum placeat dolor alias eaque cumque laudantium iusto minima, veniam recusandae aut unde est nam harum? Ex repellat ad nihil ipsum necessitatibus placeat.
+            Error animi itaque illum quae recusandae quisquam voluptas. Praesentium hic incidunt placeat impedit atque, assumenda, totam corporis, a porro inventore asperiores facere adipisci animi laboriosam quibusdam temporibus! Expedita, illo ratione.
+            Magni rerum ut vel eaque a ullam vitae voluptatem fuga ex, excepturi inventore voluptates recusandae omnis voluptatibus? Beatae quibusdam commodi nisi, aliquam soluta temporibus non illo. Praesentium aspernatur vel culpa?
+            Laboriosam cupiditate neque dicta, autem sunt voluptatum, tenetur, placeat ducimus qui recusandae magnam ipsam aperiam saepe corporis quam ut esse et maiores molestiae. Provident impedit sapiente corporis minima adipisci doloribus?
+            Ducimus maxime eum dolorem obcaecati quisquam iusto non alias tempora quo odio officia amet, soluta doloremque similique rem vitae consectetur totam architecto ipsum asperiores eos nobis dignissimos illum deserunt! Ullam.
+            Earum tenetur magnam autem delectus nesciunt ducimus maiores, sit dolores, excepturi harum quasi, maxime vero quae ut! Temporibus, debitis fuga! Ratione quos quam nihil, ipsam nisi ducimus mollitia recusandae iusto?
+          </p>
+        </div>
+        <div class="col-6 bg-dark">
+          <h1 class="text-uppercase fw-bold text-white p-3">
+            Esperienze
+          </h1>
+          <p class="text-white fw-bold text-uppercase p-3">
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem consequuntur repellendus quibusdam iusto exercitationem suscipit natus ipsam, recusandae, quam eius iure consectetur esse ex voluptates, facere ad quis modi est?
+            Asperiores delectus tempore ab id vel suscipit cum placeat dolor alias eaque cumque laudantium iusto minima, veniam recusandae aut unde est nam harum? Ex repellat ad nihil ipsum necessitatibus placeat.
+            Error animi itaque illum quae recusandae quisquam voluptas. Praesentium hic incidunt placeat impedit atque, assumenda, totam corporis, a porro inventore asperiores facere adipisci animi laboriosam quibusdam temporibus! Expedita, illo ratione.
+            Magni rerum ut vel eaque a ullam vitae voluptatem fuga ex, excepturi inventore voluptates recusandae omnis voluptatibus? Beatae quibusdam commodi nisi, aliquam soluta temporibus non illo. Praesentium aspernatur vel culpa?
+            Laboriosam cupiditate neque dicta, autem sunt voluptatum, tenetur, placeat ducimus qui recusandae magnam ipsam aperiam saepe corporis quam ut esse et maiores molestiae. Provident impedit sapiente corporis minima adipisci doloribus?
+            Ducimus maxime eum dolorem obcaecati quisquam iusto non alias tempora quo odio officia amet, soluta doloremque similique rem vitae consectetur totam architecto ipsum asperiores eos nobis dignissimos illum deserunt! Ullam.
+            Earum tenetur magnam autem delectus nesciunt ducimus maiores, sit dolores, excepturi harum quasi, maxime vero quae ut! Temporibus, debitis fuga! Ratione quos quam nihil, ipsam nisi ducimus mollitia recusandae iusto?
+          </p>
         </div>
       </div>
     </div>
