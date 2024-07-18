@@ -60,6 +60,11 @@
             </div>
           </div>
         </div>
+        <div class="col-12 text-center pt-5">
+          <button type="button" class="btn btn-success">
+            Scopri ora come fare!
+          </button>
+        </div>
       </div>
     </div>
   </section>
