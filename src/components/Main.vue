@@ -69,6 +69,11 @@
     </div>
   </section>
 
+  <!-- Video Section -->
+  <section>
+    <img src="" alt="">
+  </section>
+
   <!-- Abbonamenti Section -->
   <section class="container mt-5">
     <div class="row">
