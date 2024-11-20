@@ -23,7 +23,7 @@
         <li><a href="#header" class="smoothScroll">Home</a></li>
         <li><a href="#about" class="smoothScroll">About</a></li>
         <li><a href="#portfolio" class="smoothScroll">Portfolio</a></li>
-        <li><a href="#journal" class="smoothScroll active">Blog</a></li>
+        <li><a href="#journal" class="smoothScroll active">Experiences</a></li>
         <li><a href="#contact" class="smoothScroll">Contact</a></li>
       </ul>
 
@@ -71,7 +71,7 @@
       <div class="col-lg-7">
         <div class="about-descr">
 
-          <p class="p-heading">im a ux /ui designer austin based who loves clean, simple &amp; unique design. i also enjoy crafting brand identities, icons, &amp; ilustration work. </p>
+          <p class="p-heading">im a ux /ui designer Italy based who loves clean, simple &amp; unique design. i also enjoy crafting brand identities, icons, &amp; ilustration work. </p>
           <p class="separator">To an English person, it will seem like simplified English, as a skeptical Cambridge friend of mine told me what Occidental is. The European languages are members of the same family.English person.</p>
 
         </div>
