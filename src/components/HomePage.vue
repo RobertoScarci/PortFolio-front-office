@@ -271,11 +271,11 @@
         <div class="col-lg-4 col-md-6">
           <div class="journal-info">
 
-            <a href="blog-single.html"><img src="../assets/img/images/blog-post-1.jpg" class="img-responsive" alt="img"></a>
+            <a href="#/blog1"><img src="../assets/img/images/blog-post-1.jpg" class="img-responsive" alt="img"></a>
 
             <div class="journal-txt">
 
-              <h4><a href="blog-single.html">SO LETS MAKE THE MOST IS BEAUTIFUL</a></h4>
+              <h4><a href="#/blog1">SO LETS MAKE THE MOST IS BEAUTIFUL</a></h4>
               <p class="separator">To an English person, it will seem like simplified English
               </p>
 
