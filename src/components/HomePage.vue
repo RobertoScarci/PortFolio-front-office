@@ -271,11 +271,11 @@
         <div class="col-lg-4 col-md-6">
           <div class="journal-info">
 
-            <a href="#/blog1"><img src="../assets/img/images/blog-post-1.jpg" class="img-responsive" alt="img"></a>
+            <a href="/blog1"><img src="../assets/img/images/blog-post-1.jpg" class="img-responsive" alt="img"></a>
 
             <div class="journal-txt">
 
-              <h4><a href="#/blog1">SO LETS MAKE THE MOST IS BEAUTIFUL</a></h4>
+              <h4><a href="/blog1">SO LETS MAKE THE MOST IS BEAUTIFUL</a></h4>
               <p class="separator">To an English person, it will seem like simplified English
               </p>
 
@@ -685,7 +685,7 @@ nav ul li a {
 
 #header .header-content {
   height: 100vh;
-  text-align: center;
+  text-align: left;
   width: 100%;
   display: flex;
   justify-content: center;
@@ -701,7 +701,7 @@ nav ul li a {
 }
 
 .header-content p {
-  font-size: 13px;
+  font-size: 15px;
   letter-spacing: 5px;
   margin-top: 0;
   margin-bottom: 30px;
