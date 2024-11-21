@@ -685,7 +685,7 @@ nav ul li a {
 
 #header .header-content {
   height: 100vh;
-  text-align: left;
+  text-align: center;
   width: 100%;
   display: flex;
   justify-content: center;
