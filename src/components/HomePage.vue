@@ -1,6 +1,23 @@
 <script setup>
  
- 
+import { ref, computed } from 'vue'
+import HomePage from './HomePage.vue'
+import Blog1 from './Blog1.vue'
+
+const routes = {
+  '/': HomePage,
+  '/blog1': Blog1
+}
+
+const currentPath = ref(window.location.hash)
+
+window.addEventListener('hashchange', () => {
+  currentPath.value = window.location.hash
+})
+
+const currentView = computed(() => {
+  return routes[currentPath.value.slice(1) || '/'] || NotFound
+})
 
 </script>
 
@@ -14,7 +31,7 @@
     <div class="container">
 
       <div class="logo">
-        <a href="index.html"><img src="../assets/img/images/logo.png" alt="logo"></a>
+        <a href="/HomePage"><img src="../assets/img/images/logo.png" alt="logo"></a>
       </div>
 
       <div class="responsive"><i data-icon="m" class="ion-navicon-round"></i></div>
@@ -261,6 +278,10 @@
   <div class="container">
     <div class="section-title text-center">
       <h2>journal</h2>
+
+      <div>
+          
+      </div>
     </div>
   </div>
 
@@ -383,7 +404,6 @@
               <div class="col-lg-12">
                 <input type="submit" class="btn btn-defeault btn-send" value="Send message">
               </div>
-
             </div>
           </form>
         </div>
@@ -695,29 +715,30 @@ nav ul li a {
 .header-content h1 {
   font-size: 40px;
   font-weight: 700;
-  margin-bottom: 10px;
+  margin-bottom: 20px;
   text-transform: uppercase;
-  color: #fff;
+  color: #8b775c;
 }
 
 .header-content p {
   font-size: 15px;
-  letter-spacing: 5px;
+  letter-spacing: 6px;
   margin-top: 0;
   margin-bottom: 30px;
   text-transform: capitalize;
-  color: #fff;
+  color: #8b775c;
   font-weight: 500;
 }
 
 .header-content .list-social li {
   float: left;
+  letter-spacing: 30px;
   margin-right: 20px;
 }
 
 .header-content .list-social li i {
-  color: #fff;
-  font-size: 15px;
+  color: #8b775c;
+  font-size: 22px;
 }
 
 /*-----------------------------------------------------------------------------------*/
