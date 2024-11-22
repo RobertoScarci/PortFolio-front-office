@@ -7,8 +7,8 @@ import Blog1 from './components/Blog1.vue';
 </script>
 
 <template>
+
   <HomePage/>
-  <Blog1/>
   
 </template>
 
