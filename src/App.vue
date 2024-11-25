@@ -9,6 +9,7 @@ import Blog1 from './components/Blog1.vue';
 <template>
 
   <HomePage/>
+  <routerview></routerview>
   
 </template>
 
