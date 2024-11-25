@@ -88,7 +88,7 @@ const currentView = computed(() => {
       <div class="col-lg-7">
         <div class="about-descr">
 
-          <p class="p-heading">im a ux /ui designer Italy based who loves clean, simple &amp; unique design. i also enjoy crafting brand identities, icons, &amp; ilustration work. </p>
+          <p class="p-heading">im a UX / UI designer Italy based who loves clean, simple &amp; unique design. i also enjoy crafting brand identities, icons, &amp; ilustration work. </p>
           <p class="separator">To an English person, it will seem like simplified English, as a skeptical Cambridge friend of mine told me what Occidental is. The European languages are members of the same family.English person.</p>
 
         </div>
@@ -215,12 +215,12 @@ const currentView = computed(() => {
         <div class="portfolio-list">
 
           <ul class="nav list-unstyled" id="portfolio-flters">
-            <li class="filter" data-filter=".all">all</li>
-            <li class="filter" data-filter=".branding">branding</li>
-            <li class="filter" data-filter=".mockups">mockups</li>
-            <li class="filter" data-filter=".uikits">ui kits</li>
-            <li class="filter" data-filter=".webdesign">web design</li>
-            <li class="filter filter-active" data-filter=".photography">photography</li>
+            <li class="filter filter-active" data-filter=".all">ALL</li>
+            <li class="filter" data-filter=".branding">BRANDING</li>
+            <li class="filter" data-filter=".mockups">MOCKUPS</li>
+            <li class="filter" data-filter=".uikits">UI KITS</li>
+            <li class="filter" data-filter=".webdesign">WEB DESIGN</li>
+            <li class="filter" data-filter=".photography">PHOTOGRAPHY</li>
           </ul>
 
         </div>
@@ -769,6 +769,7 @@ nav ul li a {
 #about .about-descr .p-heading {
   font-family: 'Playfair Display', serif;
   font-size: 28px;
+  letter-spacing: 2.8px;
   text-align: left;
 }
 
