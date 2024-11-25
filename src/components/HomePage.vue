@@ -344,6 +344,7 @@ const currentView = computed(() => {
 </div>
 <!-- End section journal -->
 
+
 <!-- start section personal soft skills -->
 
 <div id="soft-skills" class="text-center paddsection">
@@ -358,65 +359,14 @@ const currentView = computed(() => {
   <div class="row">
     <div class="col-md-12">
 
-      <div class="portfolio-list">
-
-        <ul class="nav list-unstyled" id="portfolio-flters">
-          <li class="filter filter-active" data-filter=".all">ALL</li>
-          <li class="filter" data-filter=".branding">BRANDING</li>
-          <li class="filter" data-filter=".mockups">MOCKUPS</li>
-          <li class="filter" data-filter=".uikits">UI KITS</li>
-          <li class="filter" data-filter=".webdesign">WEB DESIGN</li>
-          <li class="filter" data-filter=".photography">PHOTOGRAPHY</li>
-        </ul>
-
-      </div>
-
-      <div class="portfolio-container" style="position: relative; height: 290px;">
-
-        <div class="col-lg-4 col-md-6 portfolio-thumbnail all branding uikits webdesign" style="position: absolute; left: 0px; top: 0px; display: none;">
-          <a class="popup-img" href="../assets/img/images/portfolio/1.jpg">
-            <img src="../assets/img/images/portfolio/1.jpg" alt="img">
-          </a>
-        </div>
-
-        <div class="col-lg-4 col-md-6 portfolio-thumbnail all mockups uikits photography" style="position: absolute; left: 0px; top: 0px;">
-          <a class="popup-img" href="../assets/img/images/portfolio/2.jpg">
-            <img src="../assets/img/images/portfolio/2.jpg" alt="img">
-          </a>
-        </div>
-
-        <div class="col-lg-4 col-md-6 portfolio-thumbnail all branding webdesig photographyn" style="position: absolute; left: 370px; top: 0px; display: none;">
-          <a class="popup-img" href="../assets/img/images/portfolio/3.jpg">
-            <img src="../assets/img/images/portfolio/3.jpg" alt="img">
-          </a>
-        </div>
-
-        <div class="col-lg-4 col-md-6 portfolio-thumbnail all mockups webdesign photography" style="position: absolute; left: 370px; top: 0px;">
-          <a class="popup-img" href="../assets/img/images/portfolio/4.jpg">
-            <img src="../assets/img/images/portfolio/4.jpg" alt="img">
-          </a>
-        </div>
-
-        <div class="col-lg-4 col-md-6 portfolio-thumbnail all branding uikits photography" style="position: absolute; left: 740px; top: 0px;">
-          <a class="popup-img" href="../assets/img/images/portfolio/5.jpg">
-            <img src="../assets/img/images/portfolio/5.jpg" alt="img">
-          </a>
-        </div>
-
-        <div class="col-lg-4 col-md-6 portfolio-thumbnail all mockups uikits webdesign" style="position: absolute; left: 740px; top: 0px; display: none;">
-          <a class="popup-img" href="../assets/img/images/portfolio/6.jpg">
-            <img src="../assets/img/images/portfolio/6.jpg" alt="img">
-          </a>
-        </div>
-
-      </div>
-    </div>
+    </div>  
   </div>
 </div>
 
 </div>
 
 <!-- End section personal soft skills -->
+
 
 
 <!-- start section contact -->
