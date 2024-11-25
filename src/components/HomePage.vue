@@ -296,7 +296,7 @@ const currentView = computed(() => {
 
             <div class="journal-txt">
 
-              <h4><a href="/blog1">SO LETS MAKE THE MOST IS BEAUTIFUL</a></h4>
+              <h4><a href="/blog1">MY EXPERIENCES</a></h4>
               <p class="separator">To an English person, it will seem like simplified English
               </p>
 
@@ -312,7 +312,7 @@ const currentView = computed(() => {
 
             <div class="journal-txt">
 
-              <h4><a href="#blog-single.html">WE'RE GONA MAKE DREAMS COMES</a></h4>
+              <h4><a href="#blog-single.html">WHERE I CAN SEE MYSELF IN 10 YEARS</a></h4>
               <p class="separator">To an English person, it will seem like simplified English
               </p>
 
@@ -328,7 +328,7 @@ const currentView = computed(() => {
 
             <div class="journal-txt">
 
-              <h4><a href="blog-single.html">NEW LIFE CIVILIZATIONS TO BOLDLY</a></h4>
+              <h4><a href="blog-single.html">WHAT I LIKE TO DO IN FREETIME</a></h4>
               <p class="separator">To an English person, it will seem like simplified English
               </p>
 
