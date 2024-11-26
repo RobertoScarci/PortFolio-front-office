@@ -360,7 +360,77 @@ const currentView = computed(() => {
     <div class="col-md-12">
       <div class="wpb_content_element ">
         <div id="ut_pb_6744217b11d92" class="ut-skill  ut-progress-bar-module-1 ut-skill-small ut-skill-with-border-radius">
-          <h3 class="ut-skill-name">Branding</h3>
+          <h3 class="ut-skill-name">HTML</h3>
+          <div class="ut-skill-bar">
+            <div class="ut-skill-overlay ut-skill-active ut-initialized ut-already-visible" data-speed="1000" data-animateonce="no" data-effecttype="skillbar" data-width="54" style="width: 54%;">
+              <span class="ut-skill-percent">54%</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>  
+  </div>
+  <div class="row">
+    <div class="col-md-12">
+      <div class="wpb_content_element ">
+        <div id="ut_pb_6744217b11d92" class="ut-skill  ut-progress-bar-module-1 ut-skill-small ut-skill-with-border-radius">
+          <h3 class="ut-skill-name">CSS</h3>
+          <div class="ut-skill-bar">
+            <div class="ut-skill-overlay ut-skill-active ut-initialized ut-already-visible" data-speed="1000" data-animateonce="no" data-effecttype="skillbar" data-width="54" style="width: 54%;">
+              <span class="ut-skill-percent">54%</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>  
+  </div>
+  <div class="row">
+    <div class="col-md-12">
+      <div class="wpb_content_element ">
+        <div id="ut_pb_6744217b11d92" class="ut-skill  ut-progress-bar-module-1 ut-skill-small ut-skill-with-border-radius">
+          <h3 class="ut-skill-name">JAVASCRIPT</h3>
+          <div class="ut-skill-bar">
+            <div class="ut-skill-overlay ut-skill-active ut-initialized ut-already-visible" data-speed="1000" data-animateonce="no" data-effecttype="skillbar" data-width="54" style="width: 54%;">
+              <span class="ut-skill-percent">54%</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>  
+  </div>
+  <div class="row">
+    <div class="col-md-12">
+      <div class="wpb_content_element ">
+        <div id="ut_pb_6744217b11d92" class="ut-skill  ut-progress-bar-module-1 ut-skill-small ut-skill-with-border-radius">
+          <h3 class="ut-skill-name">PHP</h3>
+          <div class="ut-skill-bar">
+            <div class="ut-skill-overlay ut-skill-active ut-initialized ut-already-visible" data-speed="1000" data-animateonce="no" data-effecttype="skillbar" data-width="54" style="width: 54%;">
+              <span class="ut-skill-percent">54%</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>  
+  </div>
+  <div class="row">
+    <div class="col-md-12">
+      <div class="wpb_content_element ">
+        <div id="ut_pb_6744217b11d92" class="ut-skill  ut-progress-bar-module-1 ut-skill-small ut-skill-with-border-radius">
+          <h3 class="ut-skill-name">PHOTOSHOP</h3>
+          <div class="ut-skill-bar">
+            <div class="ut-skill-overlay ut-skill-active ut-initialized ut-already-visible" data-speed="1000" data-animateonce="no" data-effecttype="skillbar" data-width="54" style="width: 54%;">
+              <span class="ut-skill-percent">54%</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>  
+  </div>
+  <div class="row">
+    <div class="col-md-12">
+      <div class="wpb_content_element ">
+        <div id="ut_pb_6744217b11d92" class="ut-skill  ut-progress-bar-module-1 ut-skill-small ut-skill-with-border-radius">
+          <h3 class="ut-skill-name">ILLUSTRATOR</h3>
           <div class="ut-skill-bar">
             <div class="ut-skill-overlay ut-skill-active ut-initialized ut-already-visible" data-speed="1000" data-animateonce="no" data-effecttype="skillbar" data-width="54" style="width: 54%;">
               <span class="ut-skill-percent">54%</span>
@@ -1011,7 +1081,8 @@ nav ul li a {
 /*-----------------------------------------------------------------------------------*/
 
 .ut-skill-overlay { 
-  background: #294dea; 
+  background: #b8a07e; 
+  margin-bottom: 2.5rem;
 }
 
 .ut-skill-bar { 
