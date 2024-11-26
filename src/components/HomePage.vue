@@ -362,8 +362,8 @@ const currentView = computed(() => {
         <div id="ut_pb_6744217b11d92" class="ut-skill  ut-progress-bar-module-1 ut-skill-small ut-skill-with-border-radius">
           <h3 class="ut-skill-name">HTML</h3>
           <div class="ut-skill-bar">
-            <div class="ut-skill-overlay ut-skill-active ut-initialized ut-already-visible" data-speed="1000" data-animateonce="no" data-effecttype="skillbar" data-width="54" style="width: 54%;">
-              <span class="ut-skill-percent">54%</span>
+            <div class="ut-skill-overlay ut-skill-active ut-initialized ut-already-visible" data-speed="1000" data-animateonce="no" data-effecttype="skillbar" data-width="90" style="width: 90%;">
+              <span class="ut-skill-percent">90%</span>
             </div>
           </div>
         </div>
@@ -376,8 +376,8 @@ const currentView = computed(() => {
         <div id="ut_pb_6744217b11d92" class="ut-skill  ut-progress-bar-module-1 ut-skill-small ut-skill-with-border-radius">
           <h3 class="ut-skill-name">CSS</h3>
           <div class="ut-skill-bar">
-            <div class="ut-skill-overlay ut-skill-active ut-initialized ut-already-visible" data-speed="1000" data-animateonce="no" data-effecttype="skillbar" data-width="54" style="width: 54%;">
-              <span class="ut-skill-percent">54%</span>
+            <div class="ut-skill-overlay ut-skill-active ut-initialized ut-already-visible" data-speed="1000" data-animateonce="no" data-effecttype="skillbar" data-width="90" style="width: 90%;">
+              <span class="ut-skill-percent">90%</span>
             </div>
           </div>
         </div>
@@ -390,8 +390,8 @@ const currentView = computed(() => {
         <div id="ut_pb_6744217b11d92" class="ut-skill  ut-progress-bar-module-1 ut-skill-small ut-skill-with-border-radius">
           <h3 class="ut-skill-name">JAVASCRIPT</h3>
           <div class="ut-skill-bar">
-            <div class="ut-skill-overlay ut-skill-active ut-initialized ut-already-visible" data-speed="1000" data-animateonce="no" data-effecttype="skillbar" data-width="54" style="width: 54%;">
-              <span class="ut-skill-percent">54%</span>
+            <div class="ut-skill-overlay ut-skill-active ut-initialized ut-already-visible" data-speed="1000" data-animateonce="no" data-effecttype="skillbar" data-width="80" style="width: 80%;">
+              <span class="ut-skill-percent">80%</span>
             </div>
           </div>
         </div>
@@ -404,8 +404,8 @@ const currentView = computed(() => {
         <div id="ut_pb_6744217b11d92" class="ut-skill  ut-progress-bar-module-1 ut-skill-small ut-skill-with-border-radius">
           <h3 class="ut-skill-name">PHP</h3>
           <div class="ut-skill-bar">
-            <div class="ut-skill-overlay ut-skill-active ut-initialized ut-already-visible" data-speed="1000" data-animateonce="no" data-effecttype="skillbar" data-width="54" style="width: 54%;">
-              <span class="ut-skill-percent">54%</span>
+            <div class="ut-skill-overlay ut-skill-active ut-initialized ut-already-visible" data-speed="1000" data-animateonce="no" data-effecttype="skillbar" data-width="75" style="width: 75%;">
+              <span class="ut-skill-percent">75%</span>
             </div>
           </div>
         </div>
@@ -418,8 +418,8 @@ const currentView = computed(() => {
         <div id="ut_pb_6744217b11d92" class="ut-skill  ut-progress-bar-module-1 ut-skill-small ut-skill-with-border-radius">
           <h3 class="ut-skill-name">PHOTOSHOP</h3>
           <div class="ut-skill-bar">
-            <div class="ut-skill-overlay ut-skill-active ut-initialized ut-already-visible" data-speed="1000" data-animateonce="no" data-effecttype="skillbar" data-width="54" style="width: 54%;">
-              <span class="ut-skill-percent">54%</span>
+            <div class="ut-skill-overlay ut-skill-active ut-initialized ut-already-visible" data-speed="1000" data-animateonce="no" data-effecttype="skillbar" data-width="65" style="width: 65%;">
+              <span class="ut-skill-percent">65%</span>
             </div>
           </div>
         </div>
@@ -432,8 +432,8 @@ const currentView = computed(() => {
         <div id="ut_pb_6744217b11d92" class="ut-skill  ut-progress-bar-module-1 ut-skill-small ut-skill-with-border-radius">
           <h3 class="ut-skill-name">ILLUSTRATOR</h3>
           <div class="ut-skill-bar">
-            <div class="ut-skill-overlay ut-skill-active ut-initialized ut-already-visible" data-speed="1000" data-animateonce="no" data-effecttype="skillbar" data-width="54" style="width: 54%;">
-              <span class="ut-skill-percent">54%</span>
+            <div class="ut-skill-overlay ut-skill-active ut-initialized ut-already-visible" data-speed="1000" data-animateonce="no" data-effecttype="skillbar" data-width="50" style="width: 50%;">
+              <span class="ut-skill-percent">50%</span>
             </div>
           </div>
         </div>
@@ -1099,6 +1099,17 @@ nav ul li a {
   border-radius: 15px; 
   -moz-border-radius: 15px; 
   -webkit-border-radius: 15px;
+}
+
+.ut-skill-percent{
+  color: white;
+
+}
+
+.ut-skill-name{
+  display: flex;
+  justify-content: center;
+  margin-bottom: 8px;
 }
 
 
