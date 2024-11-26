@@ -191,9 +191,29 @@ const currentView = computed(() => {
           <span>MOBILE APPS</span>
           <p class="separator">To an English person, it will seem like simplified English,told me what </p>
 
-        </div></div></div></div><div class="owl-nav disabled"><button type="button" role="presentation" class="owl-prev"><span aria-label="Previous">‹</span></button><button type="button" role="presentation" class="owl-next"><span aria-label="Next">›</span></button></div><div class="owl-dots"><button role="button" class="owl-dot"><span></span></button><button role="button" class="owl-dot active"><span></span></button></div></div>
-
+        </div>
+      </div>
+    </div>
   </div>
+  <div class="owl-nav disabled d-none">
+    <button type="button" role="presentation" class="owl-prev">
+      <span aria-label="Previous">‹</span>
+    </button>
+    <button type="button" role="presentation" class="owl-next">
+      <span aria-label="Next">›</span>
+    </button>
+  </div>
+  <div class="owl-dots">
+    <button role="button" class="owl-dot">
+      <span></span>
+    </button>
+    <button role="button" class="owl-dot active">
+      <span></span>
+    </button>
+  </div>
+</div>
+
+</div>
 
 </div>
 <!-- end section services -->
@@ -944,9 +964,6 @@ nav ul li a {
   background-color: #b8a07e;
 }
 
-.owl-nav {
-  display: none;
-}
 
 
 /*-----------------------------------------------------------------------------------*/
