@@ -461,6 +461,9 @@ const currentView = computed(() => {
     </div>  
   </div>
 </div>
+<div>
+  <hr class="space">
+</div>
 
 </div>
 
@@ -1127,6 +1130,13 @@ nav ul li a {
   display: flex;
   justify-content: center;
   margin-bottom: 8px;
+}
+
+.space{
+  width: 100%;
+  height: 30px;
+  color: #898989;
+  margin-top: 8rem;
 }
 
 
