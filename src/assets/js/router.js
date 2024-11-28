@@ -3,7 +3,7 @@ import HomePage from '../../components/HomePage.vue'
 import Blog1 from '../../components/Blog1.vue'
 
 const router = createRouter({
-  history: createWebHistory(import.meta.env.BASE_URL),
+  history: createWebHistory(),
   routes: [
     {
       path: '/',
