@@ -9,18 +9,19 @@ import '../../lib/owlcarousel/owl.carousel.min.js'
 import '../../lib/magnific-popup/magnific-popup.min.js'
 import '../../lib/isotope/isotope.pkgd.min.js'
 
-
-
 import.meta.glob([
-    '../img/**'
+  '../img/**'
 ])
 
-
 import { createApp } from 'vue'
-import '../scss/app.scss'
 import App from '../../App.vue'
+import router from '../js/router'
 
-createApp(App).mount('#app')
+const app = createApp(App)
+
+app.use(router)
+
+app.mount('#app')
 
 /*global $, jQuery, alert*/
 $(document).ready(function() {
