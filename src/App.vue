@@ -1,16 +1,18 @@
-<script setup>
+<script >
 
 import HomePage from './components/HomePage.vue'
 import Blog1 from './components/Blog1.vue';
 
+export default{
+    components: { HomePage, Blog1 }
+}
 
 
 </script>
 
 <template>
 
-  <HomePage/>
-  <Blog1/>
+  <router-view></router-view>
   
 </template>
 
