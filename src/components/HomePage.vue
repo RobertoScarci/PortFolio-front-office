@@ -328,11 +328,11 @@ const currentView = computed(() => {
         <div class="col-lg-4 col-md-6">
           <div class="journal-info">
 
-            <a href="blog-single.html"><img src="../assets/img/images/blog-post-2.jpg" class="img-responsive" alt="img"></a>
+            <a href="/blog2"><img src="../assets/img/images/blog-post-2.jpg" class="img-responsive" alt="img"></a>
 
             <div class="journal-txt">
 
-              <h4><a href="#blog-single.html">WHERE I CAN SEE MYSELF IN 10 YEARS</a></h4>
+              <h4><a href="/blog2">WHERE I CAN SEE MYSELF IN 10 YEARS</a></h4>
               <p class="separator">To an English person, it will seem like simplified English
               </p>
 
@@ -344,11 +344,11 @@ const currentView = computed(() => {
         <div class="col-lg-4 col-md-6">
           <div class="journal-info">
 
-            <a href="blog-single.html"><img src="../assets/img/images/blog-post-3.jpg" class="img-responsive" alt="img"></a>
+            <a href="/blog3"><img src="../assets/img/images/blog-post-3.jpg" class="img-responsive" alt="img"></a>
 
             <div class="journal-txt">
 
-              <h4><a href="blog-single.html">WHAT I LIKE TO DO IN FREETIME</a></h4>
+              <h4><a href="/blog3">WHAT I LIKE TO DO IN FREETIME</a></h4>
               <p class="separator">To an English person, it will seem like simplified English
               </p>
 
