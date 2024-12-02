@@ -317,7 +317,7 @@ const currentView = computed(() => {
             <div class="journal-txt">
 
               <h4><a href="/blog1">MY EXPERIENCES</a></h4>
-              <p class="separator">To an English person, it will seem like simplified English
+              <p class="separator">Where you can find all my experiences during my life
               </p>
 
             </div>
@@ -333,7 +333,7 @@ const currentView = computed(() => {
             <div class="journal-txt">
 
               <h4><a href="/blog2">WHERE I CAN SEE MYSELF IN 10 YEARS</a></h4>
-              <p class="separator">To an English person, it will seem like simplified English
+              <p class="separator">Explain my vision on myself in 10 years 
               </p>
 
             </div>
@@ -349,7 +349,7 @@ const currentView = computed(() => {
             <div class="journal-txt">
 
               <h4><a href="/blog3">WHAT I LIKE TO DO IN FREETIME</a></h4>
-              <p class="separator">To an English person, it will seem like simplified English
+              <p class="separator">Tell you all my hobby and my best passion behind technology
               </p>
 
             </div>
