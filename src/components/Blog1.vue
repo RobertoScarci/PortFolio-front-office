@@ -142,7 +142,7 @@
     </div>
   </div>
   <!--  </div> -->
-  <!-- start section main content -->
+  <!-- end section main content -->
 
   <!-- start section footer -->
   <div id="footer" class="text-center">
@@ -270,8 +270,10 @@ nav ul li a {
 }
 
 .journal-txt h4 a {
-  display: block;
-  font-size: 19px;
+  display: flex;
+  justify-content: center;
+  font-size: 25px;
+  padding: 2rem;
   line-height: 24px;
   margin: 0 0 13px 0;
   font-weight: 500;
@@ -376,6 +378,7 @@ blockquote {
   border: none;
   border-left: 4px solid #b8a07e;
 }
+
 
 
 
