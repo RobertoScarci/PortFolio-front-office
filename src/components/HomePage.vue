@@ -195,14 +195,7 @@ const currentView = computed(() => {
       </div>
     </div>
   </div>
-  <div class="owl-nav disabled d-none">
-    <button type="button" role="presentation" class="owl-prev">
-      <span aria-label="Previous">‹</span>
-    </button>
-    <button type="button" role="presentation" class="owl-next">
-      <span aria-label="Next">›</span>
-    </button>
-  </div>
+  
   <div class="owl-dots">
     <button role="button" class="owl-dot">
       <span></span>
