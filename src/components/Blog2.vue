@@ -29,12 +29,12 @@
   <div class="main-content paddsection">
     <div class="container">
       <div class="row justify-content-center">
-        <div class="col-md-8 col-md-offset-2">
+        <div class="col-md-10 col-md-offset-2">
           <div class="row">
             <div class="container-main single-main">
               <div class="col-md-12">
                 <div class="block-main mb-30">
-                  <img src="../assets/img/images/blog-post-big.jpg" class="img-responsive" alt="reviews2">
+                  <img src="../assets/img/images/blog-post-big.jpg" class="img-responsive w-100" alt="reviews2">
                   <div class="content-main single-post padDiv">
                     <div class="journal-txt">
                       <h4><a href="#">SO LETS MAKE THE MOST IS BEAUTIFUL</a></h4>
@@ -269,8 +269,10 @@ nav ul li a {
 }
 
 .journal-txt h4 a {
-  display: block;
-  font-size: 19px;
+  display: flex;
+  justify-content: center;
+  font-size: 25px;
+  padding: 2rem;
   line-height: 24px;
   margin: 0 0 13px 0;
   font-weight: 500;
