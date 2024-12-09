@@ -3,10 +3,12 @@
 import { ref, computed } from 'vue'
 import HomePage from './HomePage.vue'
 import Blog1 from './Blog1.vue'
+import Portfolio from './Portfolio.vue';
 
 const routes = {
   '/': HomePage,
-  '/blog1': Blog1
+  '/blog1': Blog1,
+  '/portfolio': Portfolio
 }
 
 const currentPath = ref(window.location.hash)
@@ -226,9 +228,11 @@ const currentView = computed(() => {
       <p>
         Where you can see all my projects during last year as Full Stack Web Developer
       </p>
-      <button class="button-74" role="button">
+      <a href="/portfolio">
+        <button class="button-74" role="button">
         Go Portfolio
       </button>
+      </a>
     </div>
   </div>
 
