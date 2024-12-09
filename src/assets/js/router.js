@@ -3,6 +3,7 @@ import HomePage from '../../components/HomePage.vue'
 import Blog1 from '../../components/Blog1.vue'
 import Blog2 from '../../components/Blog2.vue'
 import Blog3 from '../../components/Blog3.vue'
+import Portfolio from '../../components/Portfolio.vue'
 
 const router = createRouter({
   history: createWebHistory(),
@@ -28,6 +29,11 @@ const router = createRouter({
       name: 'blog3',
       component: Blog3,
     },
+    {
+      path: '/portfolio',
+      name: 'portfolio',
+      component: Portfolio,
+    }
   ]
 })
 
