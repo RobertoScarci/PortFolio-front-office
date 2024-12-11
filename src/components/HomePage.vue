@@ -232,6 +232,9 @@ const currentView = computed(() => {
         <button class="button-74" role="button">
         Go Portfolio
       </button>
+      <div class="img-portfolio">
+        <img src="../assets/img/images/avatar.jpg" alt="">
+      </div>
       </a>
     </div>
   </div>
@@ -955,6 +958,11 @@ nav ul li a {
 .button-74:active {
   box-shadow: #422800 2px 2px 0 0;
   transform: translate(2px, 2px);
+}
+
+.img-portfolio{
+  height: 100%;
+  margin: 4rem;
 }
 
 @media (min-width: 768px) {
