@@ -29,20 +29,19 @@
   <div class="main-content paddsection">
     <div class="container">
       <div class="row justify-content-center">
-        <div class="col-md-10 col-md-offset-2">
+        <div class="col-md-12 col-md-offset-2">
           <div class="row">
             <div class="container-main single-main">
               <div class="col-md-12">
                 <div class="block-main mb-30">
                   <div class="content-main single-post padDiv">
-                    <div class="journal-txt">
-                      <h4><a href="#">MY PORTFOLIO</a></h4>
+                    <div class="journal-txt text-center p-5">
+                      <h4>MY Projects</h4>
                     </div>
                     <div class="post-meta">
                       <ul class="list-unstyled mb-0">
-                        <li class="author">by:<a href="#">medsign</a></li>
-                        <li class="date">date:<a href="#">March 31, 2017</a></li>
-                        <li class="commont"><i class="ion-ios-heart-outline"></i><a href="#">3 Comments</a></li>
+                        <li class="author">by:<a href="#">RobertoScarci</a></li>
+                        <li class="date">date:<a href="#">November 31, 2024</a></li>
                       </ul>
                     </div>
                     <p class="mb-30">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to
@@ -71,7 +70,7 @@
   <div class="main-content paddsection">
     <div class="container">
       <div class="row justify-content-center">
-        <div class="col-md-10 col-md-offset-2">
+        <div class="col-md-12 col-md-offset-2">
           <div class="row">
             <div class="container-main single-main">
               <div class="col-md-12">
@@ -113,7 +112,7 @@
   <div class="main-content paddsection">
     <div class="container">
       <div class="row justify-content-center">
-        <div class="col-md-10 col-md-offset-2">
+        <div class="col-md-12 col-md-offset-2">
           <div class="row">
             <div class="container-main single-main">
               <div class="col-md-12">
