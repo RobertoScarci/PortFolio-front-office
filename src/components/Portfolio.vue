@@ -246,6 +246,12 @@ nav ul li a {
   color: #afafaf;
 }
 
+p.mb-30{
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+
 /*-----------------------------------------------------------------------------------*/
 
 /*  /* Single page */
