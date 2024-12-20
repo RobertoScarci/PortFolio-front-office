@@ -21,6 +21,7 @@ const currentView = computed(() => {
   return routes[currentPath.value.slice(1) || '/'] || NotFound
 })
 
+
 </script>
 
 <template>
@@ -863,7 +864,6 @@ $bezier: cubic-bezier(0.25, 0.8, 0.25, 1);
   height: 40px;
   width: 120px;
   position: absolute;
-  top: 50%;
   left: 50%;
   margin-top: -20px;
   margin-left: -60px;
@@ -883,7 +883,7 @@ $bezier: cubic-bezier(0.25, 0.8, 0.25, 1);
   height: 464px;
   overflow: hidden;
   transition: opacity 0.4s $bezier, transform 0.4s $bezier,
-    box-shadow 0.4s $bezier;
+  box-shadow 0.4s $bezier;
   width: 280px;
   z-index: 1000;
 
@@ -1083,7 +1083,8 @@ $bezier: cubic-bezier(0.25, 0.8, 0.25, 1);
 
       &.logo {
         .logo {
-          margin-top: 20px;
+          margin-top: 38px;
+          margin-left: 25px;
           opacity: 0;
           transform: translateY(-60px);
           transition: opacity 0.4s $bezier, transform 0.4s $bezier;
