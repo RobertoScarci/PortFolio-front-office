@@ -107,89 +107,81 @@ const currentView = computed(() => {
 <div id="services">
 
   <div class="container">
-    <!-- / A set of walkthrough screens in HTML/CSS/JS. A personal experiment with layering images, CSS3 transitions, & flexbox. -->
-        <button class='open-walkthrough'>Start</button>
-        <div class='walkthrough show reveal'>
-          <div class='walkthrough-pagination'>
-            <a class='dot active'></a>
-            <a class='dot'></a>
-            <a class='dot'></a>
-            <a class='dot'></a>
-            <a class='dot'></a>
+            <div class="services-carousel owl-theme owl-loaded owl-drag">
+          
+                <div class="owl-stage-outer"><div class="owl-stage" style="transform: translate3d(-2260px, 0px, 0px); transition: 0.25s; width: 3955px;"><div class="owl-item cloned" style="width: 262.5px; margin-right: 20px;"><div class="services-block">
+                    <i class="ion-ios-color-wand-outline"></i>
+                    <span>WEB DESIGN</span>
+                    <p class="separator">To an English person, it will seem like simplified English,told me what </p>
+                  </div></div><div class="owl-item cloned" style="width: 262.5px; margin-right: 20px;"><div class="services-block">
+                    <i class="ion-social-android-outline"></i>
+                    <span>MOBILE APPS</span>
+                    <p class="separator">To an English person, it will seem like simplified English,told me what </p>
+                  </div></div><div class="owl-item cloned" style="width: 262.5px; margin-right: 20px;"><div class="services-block">
+                    <i class="ion-ios-analytics-outline"></i>
+                    <span>Analytics</span>
+                    <p class="separator">To an English person, it will seem like simplified English,told me what </p>
+                  </div></div><div class="owl-item cloned" style="width: 262.5px; margin-right: 20px;"><div class="services-block">
+                    <i class="ion-ios-camera-outline"></i>
+                    <span>PHOTOGRAPHY</span>
+                    <p class="separator">To an English person, it will seem like simplified English,told me what </p>
+                  </div></div><div class="owl-item" style="width: 262.5px; margin-right: 20px;"><div class="services-block">
+                    <i class="ion-ios-browsers-outline"></i>
+                    <span>UI/UX DESIGN</span>
+                    <p class="separator">To an English person, it will seem like simplified English,told me what </p>
+                  </div></div><div class="owl-item" style="width: 262.5px; margin-right: 20px;"><div class="services-block">
+                    <i class="ion-ios-lightbulb-outline"></i>
+                    <span>BRAND IDENTITY</span>
+                    <p class="separator">To an English person, it will seem like simplified English,told me what </p>
+                  </div></div><div class="owl-item" style="width: 262.5px; margin-right: 20px;"><div class="services-block">
+                    <i class="ion-ios-color-wand-outline"></i>
+                    <span>WEB DESIGN</span>
+                    <p class="separator">To an English person, it will seem like simplified English,told me what </p>
+                  </div></div><div class="owl-item" style="width: 262.5px; margin-right: 20px;"><div class="services-block">
+                    <i class="ion-social-android-outline"></i>
+                    <span>MOBILE APPS</span>
+                    <p class="separator">To an English person, it will seem like simplified English,told me what </p>
+                  </div></div><div class="owl-item active" style="width: 262.5px; margin-right: 20px;"><div class="services-block">
+
+                    <i class="ion-ios-analytics-outline"></i>
+                    <span>Analytics</span>
+                    <p class="separator">To an English person, it will seem like simplified English,told me what </p>
+                  </div></div><div class="owl-item active" style="width: 262.5px; margin-right: 20px;"><div class="services-block">
+                    <i class="ion-ios-camera-outline"></i>
+                    <span>PHOTOGRAPHY</span>
+                    <p class="separator">To an English person, it will seem like simplified English,told me what </p>
+                  </div></div><div class="owl-item cloned active" style="width: 262.5px; margin-right: 20px;"><div class="services-block">
+                    <i class="ion-ios-browsers-outline"></i>
+                    <span>UI/UX DESIGN</span>
+                    <p class="separator">To an English person, it will seem like simplified English,told me what </p>
+                  </div></div><div class="owl-item cloned active" style="width: 262.5px; margin-right: 20px;"><div class="services-block">
+                    <i class="ion-ios-lightbulb-outline"></i>
+                    <span>BRAND IDENTITY</span>
+                    <p class="separator">To an English person, it will seem like simplified English,told me what </p>
+                  </div></div><div class="owl-item cloned" style="width: 262.5px; margin-right: 20px;"><div class="services-block">
+                    <i class="ion-ios-color-wand-outline"></i>
+                    <span>WEB DESIGN</span>
+                    <p class="separator">To an English person, it will seem like simplified English,told me what </p>
+                  </div></div><div class="owl-item cloned" style="width: 262.5px; margin-right: 20px;"><div class="services-block">
+                    <i class="ion-social-android-outline"></i>
+                    <span>MOBILE APPS</span>
+                    <p class="separator">To an English person, it will seem like simplified English,told me what </p>
+              <div class="container">
+
+            </div>
           </div>
-          <div class='walkthrough-body'>
-            <ul class='screens animate'>
-              <li class='screen active'>
-                <div class='media logo'>
-                  <img class='logo' src='https://s3.amazonaws.com/jebbles-codepen/icon.png'>
-                </div>
-                <h3>
-                  Product Intro
-                  <br>Walkthrough</br>
-                </h3>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.</p>
-              </li>
-              <li class='screen'>
-                <div class='media books'>
-                  <img class='icon' src='https://s3.amazonaws.com/jebbles-codepen/book_icon_1.png'>
-                  <img class='icon' src='https://s3.amazonaws.com/jebbles-codepen/book_icon_2.png'>
-                  <img class='icon' src='https://s3.amazonaws.com/jebbles-codepen/book_icon_3.png'>
-                </div>
-                <h3>
-                  Data and File
-                  <br>Management</br>
-                </h3>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.</p>
-              </li>
-              <li class='screen'>
-                <div class='media bars'>
-                  <img class='icon' src='https://s3.amazonaws.com/jebbles-codepen/bar_icon_axis.png'>
-                  <img class='icon' src='https://s3.amazonaws.com/jebbles-codepen/bar_icon_3.png'>
-                  <img class='icon' src='https://s3.amazonaws.com/jebbles-codepen/bar_icon_2.png'>
-                  <img class='icon' src='https://s3.amazonaws.com/jebbles-codepen/bar_icon_1.png'>
-                </div>
-                <h3>
-                  Analytics
-                  <br>and Metrics</br>
-                </h3>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.</p>
-              </li>
-              <li class='screen'>
-                <div class='media files'>
-                  <img class='icon' src='https://s3.amazonaws.com/jebbles-codepen/file_icon_1.png'>
-                  <img class='icon' src='https://s3.amazonaws.com/jebbles-codepen/file_icon_2.png'>
-                  <img class='icon' src='https://s3.amazonaws.com/jebbles-codepen/file_icon_3.png'>
-                  <img class='icon' src='https://s3.amazonaws.com/jebbles-codepen/file_icon_4.png'>
-                </div>
-                <h3>
-                  Reporting
-                  <br>and Insights</br>
-                </h3>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.</p>
-              </li>
-              <li class='screen'>
-                <div class='media comm'>
-                  <img class='icon' src='https://s3.amazonaws.com/jebbles-codepen/comm_icon_1.png'>
-                  <img class='icon' src='https://s3.amazonaws.com/jebbles-codepen/comm_icon_2.png'>
-                </div>
-                <h3>
-                  Communications
-                  <br>Tools</br>
-                </h3>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.</p>
-              </li>
-            </ul>
-            <button class='prev-screen'>
-              <i class='icon-angle-left'></i>
-            </button>
-            <button class='next-screen'>
-              <i class='icon-angle-right'></i>
-            </button>
-          </div>
-          <div class='walkthrough-footer'>
-            <button class='button next-screen'>Next</button>
-            <button class='button finish close' disabled='true'>Finish</button>
-          </div>
+        </div>
+        </div>
+
+        <div class="owl-dots">
+        <button role="button" class="owl-dot">
+          <span></span>
+        </button>
+        <button role="button" class="owl-dot active">
+          <span></span>
+        </button>
+        </div>
+        </div>
         </div>
   </div>
 
@@ -846,398 +838,6 @@ nav ul li a {
 /*   Services
 /*-----------------------------------------------------------------------------------*/
 
-@mixin material-shadow() {
-  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.23), 0 10px 40px rgba(0, 0, 0, 0.19);
-}
-$module-font-size: 14px;
-$bezier: cubic-bezier(0.25, 0.8, 0.25, 1);
-
-
-
-.open-walkthrough {
-  border: 0;
-  background: #5da3f2;
-  font-weight: bold;
-  text-transform: uppercase;
-  letter-spacing: 0.15em;
-  font-size: 12px;
-  height: 40px;
-  width: 120px;
-  position: absolute;
-  left: 50%;
-  margin-top: -20px;
-  margin-left: -60px;
-}
-
-// =================================================================================================
-// Walkthrough
-// =================================================================================================
-.walkthrough {
-  @include material-shadow();
-  background: linear-gradient(to right bottom, #9e66c6, #6027e1);
-  border-radius: 0;
-  display: none;
-  flex-direction: column;
-  flex: 0 0 auto;
-  font-size: $module-font-size;
-  height: 464px;
-  overflow: hidden;
-  transition: opacity 0.4s $bezier, transform 0.4s $bezier,
-  box-shadow 0.4s $bezier;
-  width: 280px;
-  z-index: 1000;
-
-  &.show {
-    display: flex;
-    opacity: 0;
-    transform: translateY(72px);
-  }
-
-  &.reveal {
-    opacity: 1;
-    transform: translateY(0);
-  }
-
-  .walkthrough-body {
-    align-items: center;
-    display: flex;
-    flex: 1;
-    text-align: center;
-
-    .prev-screen,
-    .next-screen {
-      align-self: stretch;
-      background: none;
-      border: 0;
-      margin-top: 40px;
-      color: rgba(white, 0.25);
-      cursor: pointer;
-      flex: 0 0 auto;
-      font-size: 24px;
-      opacity: 1;
-      outline: none;
-      padding: 16px;
-      transform: scale(1);
-      transition: transform 0.4s $bezier, color 0.4s $bezier,
-        opacity 0.4s $bezier;
-      z-index: 1000;
-
-      &:hover,
-      &:active {
-        color: white;
-        transform-origin: center;
-        transform: scale(1.25);
-      }
-
-      &:disabled {
-        opacity: 0;
-      }
-    }
-
-    .prev-screen {
-      order: 1;
-    }
-
-    .next-screen {
-      order: 3;
-    }
-
-    .screens {
-      flex: 1;
-      align-self: stretch;
-      position: relative;
-      margin: 0 -16px;
-      padding: 0;
-      order: 2;
-
-      .screen {
-        position: absolute;
-        list-style-type: none;
-      }
-    }
-
-    .media {
-      background: rgba(white, 0.25);
-      border-radius: 132px;
-      height: 132px;
-      margin: 32px auto;
-      width: 132px;
-    }
-
-    h3 {
-      font-size: 15px;
-      line-height: 1.4em;
-      text-transform: uppercase;
-      letter-spacing: 0.15em;
-    }
-
-    p {
-      line-height: 1.6em;
-      font-size: 13px;
-      margin-top: 16px;
-      padding-top: 0;
-      color: rgba(white, 0.8);
-    }
-  }
-
-  .walkthrough-pagination {
-    align-items: center;
-    display: flex;
-    justify-content: center;
-    margin-top: 24px;
-
-    .dot {
-      background: rgba(black, 0.25);
-      border-radius: 8px;
-      height: 8px;
-      margin: 0 4px;
-      transform: scale(0.75);
-      transition: transform 0.4s $bezier, background 0.4s $bezier;
-      width: 8px;
-
-      &.active {
-        background: white;
-        transform: scale(1);
-        transition-delay: 0.4s;
-      }
-    }
-  }
-
-  .walkthrough-footer {
-    display: flex;
-    flex: 0 0 auto;
-    justify-content: space-around;
-    padding: 0;
-
-    button {
-      height: 40px;
-      border: 0;
-      background: #5da3f2;
-      font-weight: bold;
-      text-transform: uppercase;
-      letter-spacing: 0.15em;
-      border-radius: 0;
-      color: white;
-      flex: 1;
-      font-size: 12px;
-      margin: 0;
-      outline: 0;
-      padding: 12px;
-      transition: opacity 0.4s $bezier, background 0.4s $bezier;
-      cursor: pointer;
-      &:hover {
-        background: lighten(#5da3f2, 3%);
-      }
-      &:active {
-        background: #5da3f2;
-      }
-
-      &:disabled {
-        cursor: pointer;
-      }
-
-      &.finish {
-        background: #3e94f5;
-        position: absolute;
-        left: 0;
-        bottom: 0;
-        width: 100%;
-        opacity: 0;
-        transform: scale(0, 1);
-        transform-origin: center;
-        transition: opacity 0.4s $bezier, background 0.4s $bezier,
-          transform 0.4s $bezier;
-        &:hover {
-          background: lighten(#3e94f5, 3%);
-        }
-        &:active {
-          background: #3e94f5;
-        }
-        &.active {
-          transform: scale(1, 1);
-          opacity: 1;
-        }
-      }
-    }
-  }
-
-  //Animation styles
-
-  .screens {
-    margin: 0;
-
-    .media {
-      .status-badge {
-        left: 136px;
-        opacity: 0;
-        position: absolute;
-        top: 104px;
-        transform: scale(0);
-        transition: opacity 0.4s $bezier, transform 0.4s $bezier;
-        transition-delay: 0.6s;
-
-        i {
-          display: inline;
-        }
-      }
-
-      &.logo {
-        .logo {
-          margin-top: 38px;
-          margin-left: 25px;
-          opacity: 0;
-          transform: translateY(-60px);
-          transition: opacity 0.4s $bezier, transform 0.4s $bezier;
-          width: 80px;
-        }
-      }
-      .icon {
-        position: absolute;
-        opacity: 0;
-        transform: translateY(-30px);
-        transition: opacity 0.4s $bezier, transform 0.4s $bezier;
-        width: 132px;
-        left: 48px;
-        top: 32px;
-      }
-      &.bars {
-        .icon {
-          transform: translate(40px, 20px);
-          &:nth-of-type(2) {
-            transform: scale(0.25);
-            transform-origin: 30% 54%;
-          }
-          &:nth-of-type(3) {
-            transform: scale(0.25);
-            transform-origin: 30% 40%;
-          }
-          &:nth-of-type(4) {
-            transform: scale(0.25);
-            transform-origin: 30% 26%;
-          }
-        }
-      }
-      &.files {
-        .icon {
-          transform: translate(40px, 20px);
-        }
-      }
-      &.comm {
-        .icon {
-          transform: scale(0.25);
-          transform-origin: 29% 73%;
-
-          &:nth-child(2) {
-            transform-origin: 66% 85%;
-          }
-        }
-      }
-    }
-
-    .screen {
-      opacity: 0;
-      position: absolute;
-      transform: translateX(-72px);
-      transition: all 0.4s $bezier;
-
-      &.active {
-        opacity: 1;
-        transform: translateX(0) scale(1);
-        transition-delay: 0.4s;
-
-        ~ .screen {
-          opacity: 0;
-          transform: translateX(72px);
-        }
-
-        .media {
-          .status-badge {
-            opacity: 1;
-            transform: scale(1.75);
-          }
-
-          &.logo {
-            .logo {
-              opacity: 0.8;
-              transform: translateY(0);
-              transition-delay: 0.6s;
-            }
-
-            .status-badge {
-              transition-delay: 1s;
-            }
-          }
-
-          &.books {
-            .icon {
-              opacity: 1;
-              transform: translateY(0);
-              transition-delay: 0.6s;
-              &:nth-child(2) {
-                transition-delay: 0.725s;
-              }
-              &:nth-child(3) {
-                transition-delay: 0.85s;
-              }
-            }
-            .status-badge {
-              transition-delay: 1.4s;
-            }
-          }
-
-          &.bars {
-            .icon {
-              opacity: 1;
-              transform: translate(0) scale(1);
-              transition-delay: 0.6s;
-              &:nth-child(2) {
-                transition-delay: 1.05s;
-              }
-              &:nth-child(3) {
-                transition-delay: 0.925s;
-              }
-              &:nth-child(4) {
-                transition-delay: 0.8s;
-              }
-            }
-          }
-          &.files {
-            .icon {
-              opacity: 1;
-              transform: translateY(0);
-              transition-delay: 0.9s;
-              &:nth-child(3) {
-                transition-delay: 0.8s;
-              }
-              &:nth-child(2) {
-                transition-delay: 0.7s;
-              }
-              &:nth-child(1) {
-                transition-delay: 0.6s;
-              }
-            }
-            .status-badge {
-              transition-delay: 1.6s;
-            }
-          }
-          &.comm {
-            .icon {
-              opacity: 1;
-              transform: scale(1);
-              transition-delay: 0.6s;
-              &:nth-child(2) {
-                transition-delay: 0.8s;
-              }
-            }
-            .status-badge {
-              transition-delay: 1.6s;
-            }
-          }
-        }
-      }
-    }
-  }
-}
 
 
 /*-----------------------------------------------------------------------------------*/
