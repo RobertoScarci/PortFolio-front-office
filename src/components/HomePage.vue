@@ -872,7 +872,7 @@ nav ul li a {
 }
 
 .services-carousel .owl-dots {
-  margin-top: 30px;
+  margin-top: 150px;
   text-align: center;
 }
 
