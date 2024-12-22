@@ -3,11 +3,15 @@
 import { ref, computed } from 'vue'
 import HomePage from './HomePage.vue'
 import Blog1 from './Blog1.vue'
+import Blog2 from './Blog2.vue'
+import Blog3 from './Blog3.vue'
 import Portfolio from './Portfolio.vue';
 
 const routes = {
   '/': HomePage,
   '/blog1': Blog1,
+  '/blog2': Blog2,
+  '/blog3': Blog3,
   '/portfolio': Portfolio
 }
 
