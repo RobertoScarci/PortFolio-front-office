@@ -282,7 +282,7 @@ const currentView = computed(() => {
             <div class="journal-txt">
 
               <h4><a href="/blog3">WHAT I LIKE TO DO IN FREETIME</a></h4>
-              <p class="separator">Tell you all my hobby and my best passion behind technology
+              <p class="separator">Tell you all my hobbies and my best passion behind technology
               </p>
 
             </div>
