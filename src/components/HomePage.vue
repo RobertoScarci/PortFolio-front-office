@@ -219,13 +219,13 @@ const currentView = computed(() => {
                     <div id="carouselExample" class="carousel slide">
             <div class="carousel-inner">
               <div class="carousel-item active">
-                <img src="../assets/img/images/avatar.jpg" class="d-block w-40" alt="...">
+                <img src="../assets/img/images/avatar.jpg" class=" w-40" alt="...">
               </div>
               <div class="carousel-item">
-                <img src="../assets/img/images/avatar.jpg" class="d-block w-40" alt="...">
+                <img src="../assets/img/images/avatar.jpg" class=" w-40" alt="...">
               </div>
               <div class="carousel-item">
-                <img src="../assets/img/images/avatar.jpg" class="d-block w-40" alt="...">
+                <img src="../assets/img/images/avatar.jpg" class=" w-40" alt="...">
               </div>
             </div>
             <button class="carousel-control-prev" type="button" data-bs-target="#carouselExample" data-bs-slide="prev">
