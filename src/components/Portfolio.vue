@@ -79,7 +79,7 @@
                 <div class="block-main mb-30">
                   <div class="content-main single-post padDiv">
                     <div class="journal-txt">
-                      <h4><a href="#">BoolBnB</a></h4>
+                      <h4><a href="#">BOOLBNB</a></h4>
                     </div>
                     <div class="post-meta">
                       <ul class="list-unstyled mb-0">
