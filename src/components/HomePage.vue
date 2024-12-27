@@ -247,11 +247,11 @@ const currentView = computed(() => {
         <div class="col-lg-4 col-md-6">
           <div class="journal-info">
 
-            <a href="/blog1"><img src="../assets/img/images/blog-post-1.jpg" class="img-responsive" alt="img"></a>
+            <a href="/experienceblog"><img src="../assets/img/images/blog-post-1.jpg" class="img-responsive" alt="img"></a>
 
             <div class="journal-txt">
 
-              <h4><a href="/blog1">MY EXPERIENCES</a></h4>
+              <h4><a href="/experienceblog">MY EXPERIENCES</a></h4>
               <p class="separator">Where you can find all my experiences during my life
               </p>
 
@@ -263,11 +263,11 @@ const currentView = computed(() => {
         <div class="col-lg-4 col-md-6">
           <div class="journal-info">
 
-            <a href="/blog2"><img src="../assets/img/images/blog-post-2.jpg" class="img-responsive" alt="img"></a>
+            <a href="/futureblog"><img src="../assets/img/images/blog-post-2.jpg" class="img-responsive" alt="img"></a>
 
             <div class="journal-txt">
 
-              <h4><a href="/blog2">WHERE I CAN SEE MYSELF IN 10 YEARS</a></h4>
+              <h4><a href="/futureblog">WHERE I CAN SEE MYSELF IN 10 YEARS</a></h4>
               <p class="separator">Explain my vision on myself in 10 years 
               </p>
 
@@ -279,11 +279,11 @@ const currentView = computed(() => {
         <div class="col-lg-4 col-md-6">
           <div class="journal-info">
 
-            <a href="/blog3"><img src="../assets/img/images/blog-post-3.jpg" class="img-responsive" alt="img"></a>
+            <a href="/freetimeblog"><img src="../assets/img/images/blog-post-3.jpg" class="img-responsive" alt="img"></a>
 
             <div class="journal-txt">
 
-              <h4><a href="/blog3">WHAT I LIKE TO DO IN FREETIME</a></h4>
+              <h4><a href="/freetimeblog">WHAT I LIKE TO DO IN FREETIME</a></h4>
               <p class="separator">Tell you all my hobbies and my best passion behind technology
               </p>
 
