@@ -9,9 +9,9 @@ import Portfolio from './Portfolio.vue';
 
 const routes = {
   '/': HomePage,
-  '/blog1': Blog1,
-  '/blog2': Blog2,
-  '/blog3': Blog3,
+  '/experienceblog': Blog1,
+  '/futureblog': Blog2,
+  '/freetimeblog': Blog3,
   '/portfolio': Portfolio
 }
 
