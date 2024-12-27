@@ -15,17 +15,17 @@ const router = createRouter({
       props: true
     },
     {
-      path: '/blog1',
+      path: '/experienceblog',
       name: 'blog1',
       component: Blog1,
     },
     {
-      path: '/blog2',
+      path: '/futureblog',
       name: 'blog2',
       component: Blog2,
     },
     {
-      path: '/blog3',
+      path: '/freetimeblog',
       name: 'blog3',
       component: Blog3,
     },
