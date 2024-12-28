@@ -84,7 +84,7 @@
                     <div class="post-meta">
                       <ul class="list-unstyled mb-0">
                         <li class="author">by:<a href="#">medsign</a></li>
-                        <li class="date">date:<a href="#">March 31, 2017</a></li>
+                        <li class="date">date:<a href="#">December 18, 2024</a></li>
                         <li class="commont"><i class="ion-ios-heart-outline"></i><a href="#">3 Comments</a></li>
                       </ul>
                     </div>
