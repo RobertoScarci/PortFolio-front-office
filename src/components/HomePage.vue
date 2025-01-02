@@ -774,7 +774,7 @@ nav ul li a {
 }
 
 .header-content h1 {
-  font-size: 40px;
+  font-size: 45px;
   font-weight: 700;
   margin-bottom: 20px;
   text-transform: uppercase;
