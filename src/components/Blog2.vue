@@ -66,15 +66,7 @@
                     <h6 class="mb-30">4 comments</h6>
                     <ul class="entry-comments-list list-unstyled">
                       <li>
-                        <div class="entry-comments-item">
-                          <img src="../assets/img/images/avatar.jpg" class="entry-comments-avatar" alt="">
-                          <div class="entry-comments-body">
-                            <span class="entry-comments-author">Sommer Christian</span>
-                            <span><a href="#">fev 14, 2018 at 12:48 pm</a></span>
-                            <p class="mb-10">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc quam justo, ullamcorper tincidunt pellentesque in, condimentum ut enim. Aenean at pharetra diam, quis vulputate urna. </p>
-                            <a class="rep" href="#">Reply</a>
-                          </div>
-                        </div>
+                        
                         <ul class="entry-comments-reply list-unstyled">
                           <li>
                             <div class="entry-comments-item">
