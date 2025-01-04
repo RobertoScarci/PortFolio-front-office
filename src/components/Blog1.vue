@@ -329,7 +329,7 @@ nav ul li a {
 }
 
 blockquote {
-  padding: 40px;
+  padding: 50px;
   background-color: #f2f2f2;
   margin: 30px 0;
   border: none;
