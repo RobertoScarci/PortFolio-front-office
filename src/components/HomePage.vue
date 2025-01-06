@@ -178,10 +178,10 @@ const currentView = computed(() => {
         </div>
 
         <div class="owl-dots">
-        <button role="button" class="owl-dot">
+        <button role="button" class="owl-do active">
           <span></span>
         </button>
-        <button role="button" class="owl-dot active">
+        <button role="button" class="owl-dot ">
           <span></span>
         </button>
         </div>
