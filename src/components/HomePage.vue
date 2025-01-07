@@ -207,7 +207,7 @@ const currentView = computed(() => {
       <p>
         Where you can see all my personal or team projects during last year as Full Stack Web Developer 
       </p>
-      <p class="text-uppercase fs-5 fw-bold">
+      <p class="text-uppercase fs-4 fw-bold">
         Enjoy it!
       </p>
       <a href="/portfolio">
