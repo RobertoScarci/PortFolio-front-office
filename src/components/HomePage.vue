@@ -374,7 +374,7 @@ const currentView = computed(() => {
           <h3 class="ut-skill-name">PHOTOSHOP</h3>
           <div class="ut-skill-bar">
             <div class="ut-skill-overlay ut-skill-active ut-initialized ut-already-visible" data-speed="1000" data-animateonce="no" data-effecttype="skillbar" data-width="65" style="width: 65%;">
-              <span class="ut-skill-percent">65%</span>
+              <span class="ut-skill-percent">70%</span>
             </div>
           </div>
         </div>
