@@ -286,7 +286,7 @@ p.mb-30{
   display: flex;
   justify-content: center;
   font-size: 25px;
-  padding: 2rem;
+  padding: 2.5rem;
   line-height: 24px;
   margin: 0 0 13px 0;
   font-weight: 500;
