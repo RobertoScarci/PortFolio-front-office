@@ -198,7 +198,7 @@ const currentView = computed(() => {
 
   <div class="container">
     <div class="section-title text-center">
-      <h2 class="fs-3">My Portfolio</h2>
+      <h3 class="fs-3">My Portfolio</h3>
     </div>
   </div>
 
