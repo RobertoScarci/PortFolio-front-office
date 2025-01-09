@@ -155,7 +155,7 @@ nav {
   float: right;
   line-height: 32px;
   margin-bottom: 0;
-  padding-top: 16px;
+  padding-top: 18px;
 }
 
 nav ul li {
