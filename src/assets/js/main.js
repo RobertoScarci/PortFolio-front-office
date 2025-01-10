@@ -101,7 +101,7 @@ $(document).ready(function() {
     $(function() {
       typed.typed({
         strings: ["Roberto Scarci.", "Developer.", "Designer.", "Freelancer.", "Photographer."],
-        typeSpeed: 200,
+        typeSpeed: 250,
         loop: true,
       });
     });
