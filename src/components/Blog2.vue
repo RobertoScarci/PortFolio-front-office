@@ -63,7 +63,7 @@
               <div class="col-md-12">
                 <div class="comments text-left padDiv mb-30">
                   <div class="entry-comments">
-                    <h6 class="mb-30">4 comments</h6>
+                    <h6 class="mb-30">5 comments</h6>
                     <ul class="entry-comments-list list-unstyled">
                       <li>
                         
