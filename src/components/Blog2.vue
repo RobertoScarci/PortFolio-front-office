@@ -187,7 +187,7 @@ nav {
 
 .nav-menu {
   float: right;
-  line-height: 32px;
+  line-height: 35px;
   margin-bottom: 0;
   padding-top: 16px;
 }
