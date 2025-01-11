@@ -415,7 +415,7 @@ const currentView = computed(() => {
         <div class="col-lg-6">
           <div class="contact-contact">
 
-            <h2 class="mb-30">GET IN TOUCH</h2>
+            <h2 class="mb-35">GET IN TOUCH</h2>
 
             <ul class="contact-details">
               <li><span>Via Vizzarro, Seconda Traversa</span></li>
