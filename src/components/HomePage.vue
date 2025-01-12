@@ -1080,7 +1080,7 @@ nav ul li a {
 }
 
 .contact-details li {
-  padding-bottom: 10px;
+  padding-bottom: 12px;
 }
 
 #contact input, #contact textarea {
@@ -1103,8 +1103,8 @@ nav ul li a {
   display: none;
   border: 1px solid red;
   text-align: center;
-  padding: 15px;
-  font-weight: 600;
+  padding: 18px;
+  font-weight: 550;
   margin: 15px;
 }
 
