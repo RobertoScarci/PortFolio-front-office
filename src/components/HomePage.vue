@@ -778,7 +778,7 @@ nav ul li a {
   font-weight: 700;
   margin-bottom: 20px;
   text-transform: uppercase;
-  color: #8b775c;
+  color: #877359;
 }
 
 .header-content p {
