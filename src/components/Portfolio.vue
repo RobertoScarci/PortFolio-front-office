@@ -79,11 +79,11 @@
                 <div class="block-main mb-30">
                   <div class="content-main single-post padDiv">
                     <div class="journal-txt">
-                      <h4><a href="#">BOOLBNB</a></h4>
+                      <h4><a href="#">BOOLBnB</a></h4>
                     </div>
                     <div class="post-meta">
                       <ul class="list-unstyled mb-0">
-                        <li class="author">by:<a href="#">medsign</a></li>
+                        <li class="author">by:<a href="#">Roberto Scarci</a></li>
                         <li class="date">date:<a href="#">December 18, 2024</a></li>
                         <li class="commont"><i class="ion-ios-heart-outline"></i><a href="#">3 Comments</a></li>
                       </ul>
