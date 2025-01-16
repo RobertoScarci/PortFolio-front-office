@@ -332,7 +332,7 @@ p.mb-30{
   margin-right: 10px;
   font-size: 13px;
   letter-spacing: 0.1em;
-  font-weight: 500;
+  font-weight: 550;
 }
 
 .entry-comments-item {
