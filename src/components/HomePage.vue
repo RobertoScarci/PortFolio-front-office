@@ -360,7 +360,7 @@ const currentView = computed(() => {
           <h3 class="ut-skill-name">PHP</h3>
           <div class="ut-skill-bar">
             <div class="ut-skill-overlay ut-skill-active ut-initialized ut-already-visible" data-speed="1000" data-animateonce="no" data-effecttype="skillbar" data-width="75" style="width: 75%;">
-              <span class="ut-skill-percent">75%</span>
+              <span class="ut-skill-percent">80%</span>
             </div>
           </div>
         </div>
