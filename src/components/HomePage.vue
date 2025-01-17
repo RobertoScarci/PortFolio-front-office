@@ -162,11 +162,11 @@ const currentView = computed(() => {
                     <i class="ion-ios-lightbulb-outline"></i>
                     <span>BRAND IDENTITY</span>
                     <p class="separator">To an English person, it will seem like simplified English,told me what </p>
-                  </div></div><div class="owl-item cloned" style="width: 262.5px; margin-right: 20px;"><div class="services-block">
+                  </div></div><div class="owl-item cloned active" style="width: 262.5px; margin-right: 20px;"><div class="services-block">
                     <i class="ion-ios-color-wand-outline"></i>
                     <span>WEB DESIGN</span>
                     <p class="separator">To an English person, it will seem like simplified English,told me what </p>
-                  </div></div><div class="owl-item cloned" style="width: 262.5px; margin-right: 20px;"><div class="services-block">
+                  </div></div><div class="owl-item cloned active" style="width: 262.5px; margin-right: 20px;"><div class="services-block">
                     <i class="ion-social-android-outline"></i>
                     <span>MOBILE APPS</span>
                     <p class="separator">To an English person, it will seem like simplified English,told me what </p>
@@ -213,7 +213,7 @@ const currentView = computed(() => {
       <a href="/portfolio">
         <button class="button-74" role="button">
         Go Portfolio
-      </button>
+        </button>
       <div class="img-portfolio">
         <div class="carousel">
           <img src="../assets/img/images/avatar.jpg" alt="">
