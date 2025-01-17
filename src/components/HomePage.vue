@@ -584,14 +584,14 @@ a:hover, a:focus {
 }
 
 nav ul li a {
-  padding: 2px 0 0 0;
+  padding: 3px 0 0 0;
   position: relative;
   display: block;
   font-size: 12px;
   color: #999999;
   letter-spacing: 0.1em;
   font-weight: 500;
-  line-height: 14px;
+  line-height: 15px;
   text-transform: uppercase;
   -moz-transition: all 0.5s ease-in-out 0s;
   -ms-transition: all 0.5s ease-in-out 0s;
