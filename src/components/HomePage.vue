@@ -675,7 +675,7 @@ p {
 
 .paddsections {
   padding-top: 90px;
-  padding-bottom: 90px !important;
+  padding-bottom: 90px;
 }
 
 .hvr-shutter-in-horizontal::before {
