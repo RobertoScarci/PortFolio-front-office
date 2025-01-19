@@ -212,7 +212,7 @@ nav ul li {
   float: left;
   margin-right: 15px;
   font-family: 'Poppins', sans-serif;
-  font-size: 14px;
+  font-size: 12px;
   margin-left: 40px;
 }
 
