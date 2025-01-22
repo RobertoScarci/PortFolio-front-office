@@ -310,7 +310,7 @@ const currentView = computed(() => {
   </div>
 </div>
 
-<div class="container">
+<div class="container d-flex">
   <div class="box">
     <div class="shadow"></div>
     <div class="content">
@@ -358,6 +358,8 @@ const currentView = computed(() => {
       </div>
     </div>
   </div>
+</div>
+<div class="container d-flex">
   <div class="box">
     <div class="shadow"></div>
     <div class="content">
@@ -1035,6 +1037,7 @@ nav ul li a {
 /*-----------------------------------------------------------------------------------*/
 
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;300;400;500;600;700;800;900&display=swap');
+
 
 .box {
   position: relative;
