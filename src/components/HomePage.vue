@@ -311,89 +311,99 @@ const currentView = computed(() => {
 </div>
 
 <div class="container">
-  <div class="row">
-    <div class="col-md-12">
-      <div class="wpb_content_element ">
-        <div id="ut_pb_6744217b11d92" class="ut-skill  ut-progress-bar-module-1 ut-skill-small ut-skill-with-border-radius">
-          <h3 class="ut-skill-name">HTML</h3>
-          <div class="ut-skill-bar">
-            <div class="ut-skill-overlay ut-skill-active ut-initialized ut-already-visible" data-speed="1000" data-animateonce="no" data-effecttype="skillbar" data-width="90" style="width: 90%;">
-              <span class="ut-skill-percent">90%</span>
-            </div>
-          </div>
-        </div>
+  <div class="box">
+    <div class="shadow"></div>
+    <div class="content">
+      <div class="percent" data-text="HTML" style="--num: 85">
+        <div class="dot"></div>
+        <svg>
+          <circle cx="70" cy="70" r="70"></circle>
+          <circle cx="70" cy="70" r="70"></circle>
+        </svg>
       </div>
-    </div>  
+      <div class="number">
+        <h2>85<span>%</span></h2>
+      </div>
+    </div>
   </div>
-  <div class="row">
-    <div class="col-md-12">
-      <div class="wpb_content_element ">
-        <div id="ut_pb_6744217b11d92" class="ut-skill  ut-progress-bar-module-1 ut-skill-small ut-skill-with-border-radius">
-          <h3 class="ut-skill-name">CSS</h3>
-          <div class="ut-skill-bar">
-            <div class="ut-skill-overlay ut-skill-active ut-initialized ut-already-visible" data-speed="1000" data-animateonce="no" data-effecttype="skillbar" data-width="90" style="width: 90%;">
-              <span class="ut-skill-percent">90%</span>
-            </div>
-          </div>
-        </div>
+
+  <div class="box">
+    <div class="shadow"></div>
+    <div class="content">
+      <div class="percent" data-text="CSS" style="--num: 80">
+        <div class="dot"></div>
+        <svg>
+          <circle cx="70" cy="70" r="70"></circle>
+          <circle cx="70" cy="70" r="70"></circle>
+        </svg>
       </div>
-    </div>  
+      <div class="number">
+        <h2>80<span>%</span></h2>
+      </div>
+    </div>
   </div>
-  <div class="row">
-    <div class="col-md-12">
-      <div class="wpb_content_element ">
-        <div id="ut_pb_6744217b11d92" class="ut-skill  ut-progress-bar-module-1 ut-skill-small ut-skill-with-border-radius">
-          <h3 class="ut-skill-name">JAVASCRIPT</h3>
-          <div class="ut-skill-bar">
-            <div class="ut-skill-overlay ut-skill-active ut-initialized ut-already-visible" data-speed="1000" data-animateonce="no" data-effecttype="skillbar" data-width="80" style="width: 80%;">
-              <span class="ut-skill-percent">80%</span>
-            </div>
-          </div>
-        </div>
+
+  <div class="box">
+    <div class="shadow"></div>
+    <div class="content">
+      <div class="percent" data-text="JS" style="--num: 30">
+        <div class="dot"></div>
+        <svg>
+          <circle cx="70" cy="70" r="70"></circle>
+          <circle cx="70" cy="70" r="70"></circle>
+        </svg>
       </div>
-    </div>  
+      <div class="number">
+        <h2>30<span>%</span></h2>
+      </div>
+    </div>
   </div>
-  <div class="row">
-    <div class="col-md-12">
-      <div class="wpb_content_element ">
-        <div id="ut_pb_6744217b11d92" class="ut-skill  ut-progress-bar-module-1 ut-skill-small ut-skill-with-border-radius">
-          <h3 class="ut-skill-name">PHP</h3>
-          <div class="ut-skill-bar">
-            <div class="ut-skill-overlay ut-skill-active ut-initialized ut-already-visible" data-speed="1000" data-animateonce="no" data-effecttype="skillbar" data-width="75" style="width: 75%;">
-              <span class="ut-skill-percent">80%</span>
-            </div>
-          </div>
-        </div>
+  <div class="box">
+    <div class="shadow"></div>
+    <div class="content">
+      <div class="percent" data-text="HTML" style="--num: 85">
+        <div class="dot"></div>
+        <svg>
+          <circle cx="70" cy="70" r="70"></circle>
+          <circle cx="70" cy="70" r="70"></circle>
+        </svg>
       </div>
-    </div>  
+      <div class="number">
+        <h2>85<span>%</span></h2>
+      </div>
+    </div>
   </div>
-  <div class="row">
-    <div class="col-md-12">
-      <div class="wpb_content_element ">
-        <div id="ut_pb_6744217b11d92" class="ut-skill  ut-progress-bar-module-1 ut-skill-small ut-skill-with-border-radius">
-          <h3 class="ut-skill-name">PHOTOSHOP</h3>
-          <div class="ut-skill-bar">
-            <div class="ut-skill-overlay ut-skill-active ut-initialized ut-already-visible" data-speed="1000" data-animateonce="no" data-effecttype="skillbar" data-width="65" style="width: 65%;">
-              <span class="ut-skill-percent">70%</span>
-            </div>
-          </div>
-        </div>
+
+  <div class="box">
+    <div class="shadow"></div>
+    <div class="content">
+      <div class="percent" data-text="CSS" style="--num: 57">
+        <div class="dot"></div>
+        <svg>
+          <circle cx="70" cy="70" r="70"></circle>
+          <circle cx="70" cy="70" r="70"></circle>
+        </svg>
       </div>
-    </div>  
+      <div class="number">
+        <h2>57<span>%</span></h2>
+      </div>
+    </div>
   </div>
-  <div class="row">
-    <div class="col-md-12">
-      <div class="wpb_content_element ">
-        <div id="ut_pb_6744217b11d92" class="ut-skill  ut-progress-bar-module-1 ut-skill-small ut-skill-with-border-radius">
-          <h3 class="ut-skill-name">ILLUSTRATOR</h3>
-          <div class="ut-skill-bar">
-            <div class="ut-skill-overlay ut-skill-active ut-initialized ut-already-visible" data-speed="1000" data-animateonce="no" data-effecttype="skillbar" data-width="50" style="width: 50%;">
-              <span class="ut-skill-percent">50%</span>
-            </div>
-          </div>
-        </div>
+
+  <div class="box">
+    <div class="shadow"></div>
+    <div class="content">
+      <div class="percent" data-text="JS" style="--num: 30">
+        <div class="dot"></div>
+        <svg>
+          <circle cx="70" cy="70" r="70"></circle>
+          <circle cx="70" cy="70" r="70"></circle>
+        </svg>
       </div>
-    </div>  
+      <div class="number">
+        <h2>30<span>%</span></h2>
+      </div>
+    </div>
   </div>
 </div>
 <div>
@@ -950,6 +960,187 @@ nav ul li a {
     min-width: 120px;
     padding: 0 25px;
   }
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;300;400;500;600;700;800;900&display=swap');
+
+.box {
+  position: relative;
+  width: 240px;
+  height: 250px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.box::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 20px;
+  height: 100%;
+  background: linear-gradient(#fff, #fff, #e3e3e3);
+  filter: blur(1px);
+  z-index: 1;
+}
+
+.box::after {
+  content: '';
+  position: absolute;
+  top: 1px;
+  right: -1px;
+  width: 20px;
+  height: 100%;
+  background: #9d9d9d;
+  filter: blur(1px);
+  z-index: 1;
+}
+
+.box .shadow {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background: #eee;
+}
+
+.box .shadow::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: calc(100% + 5px);
+  width: 100%;
+  height: 200%;
+  background: linear-gradient(rgba(0,0,0,0.075), transparent);
+  transform: skewX(45deg);
+}
+
+.box .shadow::after {
+  content: '';
+  position: absolute;
+  bottom: -200%;
+  left: calc(100% + 15px);
+  width: 100%;
+  height: 200%;
+  background: linear-gradient(rgba(0,0,0,0.075), transparent);
+  transform: skewX(45deg);
+}
+
+.box .content {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(#dbdae1, #a3aaba);
+  box-shadow: 5px 5px 5px rgba(0,0,0,0.1),
+    15px 15px 15px rgba(0,0,0,0.1),
+    20px 20px 20px rgba(0,0,0,0.1),
+    50px 50px 50px rgba(0,0,0,0.1),
+    inset 3px 3px 2px #fff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.box .content .percent {
+  position: relative;
+  width: 150px;
+  height: 150px;
+}
+
+.box .content .percent::before {
+  content: attr(data-text);
+  position: absolute;
+  inset: 20px;
+  background: #555;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #fff;
+  font-size: 1.75rem;
+  letter-spacing: 0.1rem;
+  text-transform: uppercase;
+}
+
+.box .content .percent svg {
+  position: relative;
+  width: 150px;
+  height: 150px;
+  transform: rotate(270deg);
+}
+
+.box .content .percent svg circle {
+  width: 100%;
+  height: 100%;
+  fill: transparent;
+  stroke-width: 3;
+  stroke: rgba(0,0,0,0.05);
+  transform: translate(5px, 5px);
+}
+
+.box .content .percent svg circle:nth-child(2) {
+  stroke: #555;
+  stroke-dasharray: 440;
+  stroke-dashoffset: calc(440 - (440 * var(--num)) / 100);
+  opacity: 0;
+  animation: fadeIn 1s linear forwards;
+  animation-delay: 2.5s;
+}
+
+@keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+.box .content .percent .dot {
+  position: absolute;
+  inset: 5px;
+  z-index: 10;
+  animation: animateDot 2s linear forwards;
+}
+
+@keyframes animateDot {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(calc(3.6deg * var(--num)));
+  }
+}
+
+.box .content .percent .dot::before {
+  content: '';
+  position: absolute;
+  top: -7px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 14px;
+  height: 14px;
+  background: #555;
+  border-radius: 50%;
+}
+
+.box .content .number {
+  position: relative;
+  inset: 0;
+  opacity: 0;
+  animation: fadeIn 1s linear forwards;
+  animation-delay: 2.5s;
+}
+
+.box .content .number h2 {
+  font-size: 2.5rem;
+  color: #555;
+}
+
+.box .content .number h2 span {
+  font-weight: 300;
+  font-size: 1.5rem;
 }
 
 
