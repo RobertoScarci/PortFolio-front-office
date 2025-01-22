@@ -346,7 +346,7 @@ const currentView = computed(() => {
   <div class="box">
     <div class="shadow"></div>
     <div class="content">
-      <div class="percent" data-text="JS" style="--num: 30">
+      <div class="percent" data-text="JS" style="--num: 80">
         <div class="dot"></div>
         <svg>
           <circle cx="70" cy="70" r="70"></circle>
@@ -354,7 +354,7 @@ const currentView = computed(() => {
         </svg>
       </div>
       <div class="number">
-        <h2>30<span>%</span></h2>
+        <h2>80<span>%</span></h2>
       </div>
     </div>
   </div>
