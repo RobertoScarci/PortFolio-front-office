@@ -314,7 +314,7 @@ const currentView = computed(() => {
   <div class="box">
     <div class="shadow"></div>
     <div class="content">
-      <div class="percent" data-text="HTML" style="--num: 85">
+      <div class="percent" data-text="HTML" style="--num: 90">
         <div class="dot"></div>
         <svg>
           <circle cx="70" cy="70" r="70"></circle>
@@ -322,7 +322,7 @@ const currentView = computed(() => {
         </svg>
       </div>
       <div class="number">
-        <h2>85<span>%</span></h2>
+        <h2>90<span>%</span></h2>
       </div>
     </div>
   </div>
@@ -361,7 +361,7 @@ const currentView = computed(() => {
   <div class="box">
     <div class="shadow"></div>
     <div class="content">
-      <div class="percent" data-text="HTML" style="--num: 85">
+      <div class="percent" data-text="PHP" style="--num: 75">
         <div class="dot"></div>
         <svg>
           <circle cx="70" cy="70" r="70"></circle>
@@ -369,7 +369,7 @@ const currentView = computed(() => {
         </svg>
       </div>
       <div class="number">
-        <h2>85<span>%</span></h2>
+        <h2>75<span>%</span></h2>
       </div>
     </div>
   </div>
@@ -377,7 +377,7 @@ const currentView = computed(() => {
   <div class="box">
     <div class="shadow"></div>
     <div class="content">
-      <div class="percent" data-text="CSS" style="--num: 57">
+      <div class="percent" data-text="SQL" style="--num: 50">
         <div class="dot"></div>
         <svg>
           <circle cx="70" cy="70" r="70"></circle>
@@ -385,7 +385,7 @@ const currentView = computed(() => {
         </svg>
       </div>
       <div class="number">
-        <h2>57<span>%</span></h2>
+        <h2>50<span>%</span></h2>
       </div>
     </div>
   </div>
@@ -393,7 +393,7 @@ const currentView = computed(() => {
   <div class="box">
     <div class="shadow"></div>
     <div class="content">
-      <div class="percent" data-text="JS" style="--num: 30">
+      <div class="percent" data-text="VueJS" style="--num: 60">
         <div class="dot"></div>
         <svg>
           <circle cx="70" cy="70" r="70"></circle>
@@ -401,7 +401,7 @@ const currentView = computed(() => {
         </svg>
       </div>
       <div class="number">
-        <h2>30<span>%</span></h2>
+        <h2>60<span>%</span></h2>
       </div>
     </div>
   </div>
