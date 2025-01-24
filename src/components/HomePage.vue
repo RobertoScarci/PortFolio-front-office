@@ -358,6 +358,22 @@ const currentView = computed(() => {
       </div>
     </div>
   </div>
+
+  <div class="box">
+    <div class="shadow"></div>
+    <div class="content">
+      <div class="percent" data-text="HTML" style="--num: 90">
+        <div class="dot"></div>
+        <svg>
+          <circle cx="70" cy="70" r="70"></circle>
+          <circle cx="70" cy="70" r="70"></circle>
+        </svg>
+      </div>
+      <div class="number">
+        <h2>90<span>%</span></h2>
+      </div>
+    </div>
+  </div>
 </div>
 <div class="container d-flex">
   <div class="box">
@@ -404,6 +420,22 @@ const currentView = computed(() => {
       </div>
       <div class="number">
         <h2>60<span>%</span></h2>
+      </div>
+    </div>
+  </div>
+
+  <div class="box">
+    <div class="shadow"></div>
+    <div class="content">
+      <div class="percent" data-text="HTML" style="--num: 90">
+        <div class="dot"></div>
+        <svg>
+          <circle cx="70" cy="70" r="70"></circle>
+          <circle cx="70" cy="70" r="70"></circle>
+        </svg>
+      </div>
+      <div class="number">
+        <h2>90<span>%</span></h2>
       </div>
     </div>
   </div>
@@ -1044,7 +1076,7 @@ nav ul li a {
   width: 240px;
   height: 250px;
   margin-right: 7rem;
-  margin-bottom: 2rem;
+  margin-bottom: 3rem;
   display: flex;
   justify-content: center;
   align-items: center;
