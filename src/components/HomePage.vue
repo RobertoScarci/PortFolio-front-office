@@ -1043,6 +1043,8 @@ nav ul li a {
   position: relative;
   width: 240px;
   height: 250px;
+  margin-right: 7rem;
+  margin-bottom: 2rem;
   display: flex;
   justify-content: center;
   align-items: center;
