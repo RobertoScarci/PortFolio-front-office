@@ -1208,7 +1208,7 @@ nav ul li a {
   position: absolute;
   inset: 5px;
   z-index: 10;
-  animation: animateDot 2s linear forwards;
+  animation: animateDot 2.5s linear forwards;
 }
 
 @keyframes animateDot {
