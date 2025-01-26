@@ -1291,7 +1291,7 @@ nav ul li a {
   display: none;
   border: 1px solid red;
   text-align: center;
-  padding: 18px;
+  padding: 20px;
   font-weight: 550;
   margin: 15px;
 }
