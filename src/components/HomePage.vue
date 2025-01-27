@@ -310,7 +310,7 @@ const currentView = computed(() => {
   </div>
 </div>
 
-<div class="container d-flex">
+<div class="container d-flex justify-content-evenly">
   <div class="box">
     <div class="shadow"></div>
     <div class="content">
@@ -375,7 +375,7 @@ const currentView = computed(() => {
     </div>
   </div>
 </div>
-<div class="container d-flex">
+<div class="container d-flex justify-content-evenly">
   <div class="box">
     <div class="shadow"></div>
     <div class="content">
@@ -1076,8 +1076,6 @@ nav ul li a {
   width: 240px;
   height: 250px;
   margin-bottom: 2rem;
-  display: flex;
-  align-items: center;
 }
 
 .box::before {
