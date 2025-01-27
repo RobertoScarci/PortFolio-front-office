@@ -1073,9 +1073,9 @@ nav ul li a {
 
 .box {
   position: relative;
-  width: 240px;
+  width: 260px;
   height: 250px;
-  margin-bottom: 2rem;
+  margin-bottom: 4rem;
 }
 
 .box::before {
