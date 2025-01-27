@@ -908,7 +908,7 @@ nav ul li a {
 }
 .services-block .separator {
   margin: 0;
-  font-size: 13px;
+  font-size: 12px;
   line-height: 22px;
 }
 .services-block i {
