@@ -362,7 +362,7 @@ const currentView = computed(() => {
   <div class="box">
     <div class="shadow"></div>
     <div class="content">
-      <div class="percent" data-text="HTML" style="--num: 90">
+      <div class="percent" data-text="Laravel" style="--num: 70">
         <div class="dot"></div>
         <svg>
           <circle cx="70" cy="70" r="70"></circle>
@@ -370,7 +370,7 @@ const currentView = computed(() => {
         </svg>
       </div>
       <div class="number">
-        <h2>90<span>%</span></h2>
+        <h2>70<span>%</span></h2>
       </div>
     </div>
   </div>
@@ -427,7 +427,7 @@ const currentView = computed(() => {
   <div class="box">
     <div class="shadow"></div>
     <div class="content">
-      <div class="percent" data-text="HTML" style="--num: 90">
+      <div class="percent" data-text="SASS" style="--num: 75">
         <div class="dot"></div>
         <svg>
           <circle cx="70" cy="70" r="70"></circle>
@@ -435,7 +435,7 @@ const currentView = computed(() => {
         </svg>
       </div>
       <div class="number">
-        <h2>90<span>%</span></h2>
+        <h2>75<span>%</span></h2>
       </div>
     </div>
   </div>
