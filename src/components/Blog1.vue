@@ -274,8 +274,8 @@ nav ul li a {
 
 .entry-comments h6 {
   margin-right: 10px;
-  font-size: 13px;
-  letter-spacing: 0.1em;
+  font-size: 12px;
+  letter-spacing: 0.2em;
   font-weight: 500;
 }
 
