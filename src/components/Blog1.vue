@@ -308,7 +308,7 @@ nav ul li a {
 .rep {
   font-size: 13px;
   color: #292929;
-  letter-spacing: 0.1em;
+  letter-spacing: 0.3em;
   font-weight: 500;
   text-transform: capitalize;
 }
