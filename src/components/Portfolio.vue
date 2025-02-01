@@ -124,7 +124,7 @@
                       <h4><a href="#">VUETSHAPP</a></h4>
                     </div>
                     <div class="post-meta">
-                      <ul class="list-unstyled mb-0">
+                      <ul class="list-unstyled mb-2">
                         <li class="author">by:<a href="#">Roberto Scarci</a></li>
                         <li class="date">date:<a href="#">January 4, 2025</a></li>
                         <li class="commont"><i class="ion-ios-heart-outline"></i><a href="#">3 Comments</a></li>
