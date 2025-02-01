@@ -310,7 +310,7 @@ const currentView = computed(() => {
   </div>
 </div>
 
-<div class="container d-flex justify-content-evenly">
+<div class="container d-flex justify-content-between">
   <div class="box">
     <div class="shadow"></div>
     <div class="content">
@@ -375,7 +375,7 @@ const currentView = computed(() => {
     </div>
   </div>
 </div>
-<div class="container d-flex justify-content-evenly">
+<div class="container d-flex justify-content-bewtween">
   <div class="box">
     <div class="shadow"></div>
     <div class="content">
