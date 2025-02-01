@@ -912,9 +912,9 @@ nav ul li a {
   line-height: 22px;
 }
 .services-block i {
-  font-size: 44px;
+  font-size: 46px;
   color: #b8a07e;
-  line-height: 44px;
+  line-height: 46px;
 }
 
 .services-carousel  .owl-stage-outer {
