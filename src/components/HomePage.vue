@@ -635,12 +635,12 @@ nav ul li a {
   color: #999999;
   letter-spacing: 0.1em;
   font-weight: 500;
-  line-height: 15px;
+  line-height: 1px;
   text-transform: uppercase;
-  -moz-transition: all 0.5s ease-in-out 0s;
-  -ms-transition: all 0.5s ease-in-out 0s;
+  -moz-transition: all 0.6s ease-in-out 0s;
+  -ms-transition: all 0.7s ease-in-out 0s;
   -o-transition: all 0.5s ease-in-out 0s;
-  -webkit-transition: all 0.5s ease-in-out 0s;
+  -webkit-transition: all 0.6s ease-in-out 0s;
   transition: all 0.5s ease-in-out 0s;
 }
 
