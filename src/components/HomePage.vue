@@ -601,7 +601,7 @@ h2 {
 h4 {
   color: #292929;
   font-size: 14px;
-  font-weight: 620;
+  font-weight: 630;
 }
 
 a {
