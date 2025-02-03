@@ -635,7 +635,7 @@ nav ul li a {
   color: #999999;
   letter-spacing: 0.1em;
   font-weight: 500;
-  line-height: 1px;
+  line-height: 1.2px;
   text-transform: uppercase;
   -moz-transition: all 0.6s ease-in-out 0s;
   -ms-transition: all 0.7s ease-in-out 0s;
