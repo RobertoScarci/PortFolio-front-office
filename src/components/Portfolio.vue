@@ -126,9 +126,7 @@
                     <div class="post-meta">
                       <ul class="list-unstyled mb-2">
                         <li class="author">by:<a href="#">Roberto Scarci</a></li>
-                        <li class="date">date:<a href="#">January 4, 2025</a></li>
-                        <li class="commont"><i class="ion-ios-heart-outline"></i><a href="#">3 Comments</a></li>
-                      </ul>
+                        <li class="date">date:<a href="#">January 4, 2025</a></li>                      </ul>
                     </div>
                     <p class="mb-30">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to
                       using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web
