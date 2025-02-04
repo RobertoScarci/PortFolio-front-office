@@ -270,7 +270,7 @@ p.mb-30{
 }
 
 .main-content .container-main .block-main {
-  margin-bottom: 30px;
+  margin-bottom: 28px;
   overflow: hidden;
 }
 
