@@ -114,7 +114,7 @@ $(document).ready(function() {
     $('.services-carousel').owlCarousel({
       autoplay: true,
       loop: true,
-      margin: 22,
+      margin: 20,
       dots: true,
       nav: true,
       responsiveClass: true,
