@@ -328,7 +328,7 @@ nav ul li a {
 }
 
 .entry-comments-body {
-  padding-left: 86px;
+  padding-left: 85px;
 }
 
 .entry-comments-author {
@@ -340,7 +340,7 @@ nav ul li a {
 }
 
 .rep {
-  font-size: 13px;
+  font-size: 12px;
   color: #292929;
   letter-spacing: 0.1em;
   font-weight: 500;
