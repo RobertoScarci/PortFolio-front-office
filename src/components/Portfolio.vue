@@ -234,7 +234,7 @@ nav ul li a {
 
 .responsive {
   display: none;
-  font-size: 23px;
+  font-size: 22px;
 }
 
 .active {
@@ -278,15 +278,15 @@ p.mb-30{
 .journal-txt h4 a {
   display: flex;
   justify-content: center;
-  font-size: 25px;
+  font-size: 24px;
   padding: 2.5rem;
   line-height: 24px;
   margin: 0 0 13px 0;
   font-weight: 500;
   color: #292929;
   -moz-transition: all 0.5s ease-in-out 0s;
-  -ms-transition: all 0.5s ease-in-out 0s;
-  -o-transition: all 0.5s ease-in-out 0s;
+  -ms-transition: all 0.6s ease-in-out 0s;
+  -o-transition: all 0.6s ease-in-out 0s;
   -webkit-transition: all 0.5s ease-in-out 0s;
   transition: all 0.5s ease-in-out 0s;
 }
