@@ -415,15 +415,15 @@ blockquote {
 }
 
 #footer .socials-media ul li a {
-  font-size: 24px;
+  font-size: 24.5px;
   color: #999;
-  letter-spacing: 0.2em;
+  letter-spacing: 0.3em;
   font-weight: 500;
   background: transparent;
   text-transform: uppercase;
   -moz-transition: all 0.5s ease-in-out 0s;
   -ms-transition: all 0.5s ease-in-out 0s;
-  -o-transition: all 0.5s ease-in-out 0s;
+  -o-transition: all 0.4s ease-in-out 0s;
   -webkit-transition: all 0.5s ease-in-out 0s;
   transition: all 0.5s ease-in-out 0s;
 }
