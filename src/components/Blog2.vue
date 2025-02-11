@@ -401,9 +401,9 @@ blockquote {
 }
 
 #footer .socials-media ul li a {
-  font-size: 24px;
+  font-size: 24.5px;
   color: #999;
-  letter-spacing: 0.1em;
+  letter-spacing: 0.1.5em;
   font-weight: 500;
   background: transparent;
   text-transform: uppercase;
@@ -424,8 +424,8 @@ blockquote {
 }
 
 #footer p {
-  font-size: 12px;
-  letter-spacing: 0.1em;
+  font-size: 12.5px;
+  letter-spacing: 0.2em;
   font-weight: 500;
   margin-top: 0;
   text-transform: uppercase;
