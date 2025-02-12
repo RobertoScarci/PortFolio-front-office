@@ -343,7 +343,7 @@ p.mb-30{
 }
 
 .entry-comments-body {
-  padding-left: 86px;
+  padding-left: 85px;
 }
 
 .entry-comments-author {
