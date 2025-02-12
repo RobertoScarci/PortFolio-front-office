@@ -432,7 +432,7 @@ blockquote {
 }
 
 .credits {
-  font-size: 13px;
+  font-size: 14px;
 }
 
 
