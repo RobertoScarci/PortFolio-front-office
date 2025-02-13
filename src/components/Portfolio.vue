@@ -312,13 +312,13 @@ p.mb-30{
 
 .content-main .post-meta a {
   color: #a2a2a2;
-  margin-left: 5px;
+  margin-left: 5.5px;
 }
 
 /* Commonts */
 
 .comments {
-  background: #fff;
+  background: #ffff;
 }
 
 .entry-comments h6 {
