@@ -1279,9 +1279,9 @@ nav ul li a {
   border: 1px solid #18d26e;
   display: none;
   text-align: center;
-  padding: 15px;
+  padding: 15.5px;
   font-weight: 600;
-  margin: 15px;
+  margin: 15.5px;
 }
 
 #contact  #errormessage {
