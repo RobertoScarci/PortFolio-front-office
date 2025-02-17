@@ -1227,7 +1227,7 @@ nav ul li a {
   width: 14px;
   height: 14px;
   background: #555;
-  border-radius: 50%;
+  border-radius: 60%;
 }
 
 .box .content .number {
