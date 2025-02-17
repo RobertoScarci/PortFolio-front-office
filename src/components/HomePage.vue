@@ -1117,7 +1117,7 @@ nav ul li a {
   width: 100%;
   height: 200%;
   background: linear-gradient(rgba(0,0,0,0.075), transparent);
-  transform: skewX(45deg);
+  transform: skewX(47deg);
 }
 
 .box .shadow::after {
