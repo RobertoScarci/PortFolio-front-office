@@ -277,9 +277,9 @@ p.mb-30{
 .journal-txt h4 a {
   display: flex;
   justify-content: center;
-  font-size: 24px;
+  font-size: 22px;
   padding: 2.5rem;
-  line-height: 24px;
+  line-height: 22px;
   margin: 0 0 13px 0;
   font-weight: 500;
   color: #292929;
@@ -300,7 +300,7 @@ p.mb-30{
 }
 
 .post-meta ul li {
-  font-size: 11.5px;
+  font-size: 11px;
   font-weight: normal;
   margin-left: 8px;
   margin-right: 8px;
