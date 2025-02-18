@@ -188,9 +188,9 @@ nav {
   width: 100%;
   padding: 20px;
   display: none;
-  -webkit-box-shadow: 0px 2px 92px 0px rgba(0, 0, 0, 0.18);
-  -moz-box-shadow: 0px 2px 92px 0px rgba(0, 0, 0, 0.18);
-  box-shadow: 0px 2px 92px 0px rgba(0, 0, 0, 0.18);
+  -webkit-box-shadow: 0px 2px 93px 0px rgba(0, 0, 0, 0.18);
+  -moz-box-shadow: 0px 2px 93px 0px rgba(0, 0, 0, 0.18);
+  box-shadow: 0px 2px 93px 0px rgba(0, 0, 0, 0.18);
 }
 
 .nav-menu {
