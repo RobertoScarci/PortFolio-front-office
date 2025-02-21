@@ -1357,7 +1357,7 @@ nav ul li a {
 
 #footer p {
   font-size: 12px;
-  letter-spacing: 0.1em;
+  letter-spacing: 0.2em;
   font-weight: 500;
   margin-top: 0;
   text-transform: uppercase;
