@@ -444,9 +444,9 @@ blockquote {
 }
 
 #footer p {
-  font-size: 12px;
+  font-size: 13px;
   letter-spacing: 0.1em;
-  font-weight: 500;
+  font-weight: 510;
   margin-top: 0;
   text-transform: uppercase;
 }
