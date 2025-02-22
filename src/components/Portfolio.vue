@@ -309,8 +309,8 @@ p.mb-30{
 .post-meta ul li {
   font-size: 11px;
   font-weight: normal;
-  margin-left: 8px;
-  margin-right: 8px;
+  margin-left: 10px;
+  margin-right: 10px;
   text-transform: capitalize;
   display: inline-block;
   float: none;
