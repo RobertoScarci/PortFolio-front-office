@@ -343,7 +343,7 @@ p.mb-30{
 .entry-comments-avatar {
   position: absolute;
   display: block;
-  border-radius: 50%;
+  border-radius: 48%;
   width: 60px;
   height: 60px;
 }
