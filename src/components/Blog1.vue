@@ -216,7 +216,7 @@ nav ul li a {
 }
 
 .main-content .container-main .block-main {
-  margin-bottom: 30px;
+  margin-bottom: 33px;
   overflow: hidden;
 }
 
