@@ -306,7 +306,7 @@ nav ul li a {
 }
 
 .rep {
-  font-size: 13px;
+  font-size: 14px;
   color: #292929;
   letter-spacing: 0.3em;
   font-weight: 500;
@@ -314,7 +314,7 @@ nav ul li a {
 }
 
 .entry-comments span a {
-  font-size: 13px;
+  font-size: 14px;
   color: #999;
 }
 
