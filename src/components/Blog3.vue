@@ -68,7 +68,7 @@
                         <div class="entry-comments-item">
                           <img src="../assets/img/images/avatar.jpg" class="entry-comments-avatar" alt="">
                           <div class="entry-comments-body">
-                            <span class="entry-comments-author">Roberto Scarci</span>
+                            <span class="entry-comments-author">Sara Smith</span>
                             <span><a href="#">feb 14, 2025 at 12:48 pm</a></span>
                             <p class="mb-10">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc quam justo, ullamcorper tincidunt pellentesque in, condimentum ut enim. Aenean at pharetra diam, quis vulputate urna. </p>
                             <a class="rep" href="#">Reply</a>
