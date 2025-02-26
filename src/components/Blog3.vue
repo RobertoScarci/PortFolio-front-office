@@ -252,7 +252,7 @@ nav ul li a {
 }
 
 .main-content .container-main .block-main {
-  margin-bottom: 30px;
+  margin-bottom: 32px;
   overflow: hidden;
 }
 
@@ -290,8 +290,8 @@ nav ul li a {
 .post-meta ul li {
   font-size: 12px;
   font-weight: normal;
-  margin-left: 8px;
-  margin-right: 8px;
+  margin-left: 8.5px;
+  margin-right: 8.5px;
   text-transform: capitalize;
   display: inline-block;
   float: none;
