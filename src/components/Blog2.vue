@@ -203,11 +203,11 @@ nav ul li a {
   padding: 2px 0 0 0;
   position: relative;
   display: block;
-  font-size: 14px;
+  font-size: 13px;
   color: #999999;
   font-family: 'Poppins', helvetica;
   font-weight: 500;
-  line-height: 16px;
+  line-height: 15px;
   text-transform: uppercase;
   letter-spacing: 0.02em;
   text-transform: capitalize;
