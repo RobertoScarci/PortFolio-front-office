@@ -329,7 +329,7 @@ p.mb-30{
 
 .entry-comments h6 {
   margin-right: 10px;
-  font-size: 13px;
+  font-size: 12px;
   letter-spacing: 0.1em;
   font-weight: 550;
 }
