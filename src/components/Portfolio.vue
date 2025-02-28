@@ -361,9 +361,9 @@ p.mb-30{
 }
 
 .rep {
-  font-size: 13px;
+  font-size: 12px;
   color: #292929;
-  letter-spacing: 0.1em;
+  letter-spacing: 0.2em;
   font-weight: 500;
   text-transform: capitalize;
 }
