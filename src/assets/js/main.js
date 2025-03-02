@@ -78,7 +78,7 @@ $(document).ready(function() {
         $("#main-nav, #main-nav-subpage").slideDown(700);
         $("#main-nav-subpage").removeClass('subpage-nav');
       } else {
-        $("#main-nav").slideUp(680);
+        $("#main-nav").slideUp(670);
         $("#main-nav-subpage").hide();
         $("#main-nav-subpage").addClass('subpage-nav');
       }
