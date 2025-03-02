@@ -1190,7 +1190,7 @@ nav ul li a {
   stroke-dashoffset: calc(440 - (440 * var(--num)) / 100);
   opacity: 0;
   animation: fadeIn 1s linear forwards;
-  animation-delay: 2.5s;
+  animation-delay: 2s;
 }
 
 @keyframes fadeIn {
