@@ -1036,7 +1036,7 @@ nav ul li a {
 
 .journal-block .journal-info .journal-txt h4 a {
   display: block;
-  font-size: 19px;
+  font-size: 18px;
   line-height: 24px;
   margin: 0 0 13px 0;
   font-weight: 500;
