@@ -1073,7 +1073,7 @@ nav ul li a {
 
 .box {
   position: relative;
-  width: 260px;
+  width: 250px;
   height: 250px;
   margin-bottom: 4rem;
 }
