@@ -928,7 +928,7 @@ nav ul li a {
 
 .services-carousel .owl-dot {
   display: inline-block;
-  margin: 0 5px;
+  margin: 0 6px;
   width: 12px !important;
   height: 12px !important;
   border-radius: 50%;
