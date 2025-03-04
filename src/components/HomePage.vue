@@ -1006,7 +1006,7 @@ nav ul li a {
   height: auto;
   width: 100%;
   background: #f7f7f7;
-  padding-bottom: 60px;
+  padding-bottom: 58px;
   position: relative;
 }
 
