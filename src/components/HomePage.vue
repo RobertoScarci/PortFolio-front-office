@@ -964,7 +964,7 @@ nav ul li a {
   cursor: pointer;
   display: inline-block;
   font-weight: 600;
-  font-size: 20px;
+  font-size: 18px;
   padding-top: 2rem;
   padding: 0 18px;
   line-height: 50px;
