@@ -874,7 +874,7 @@ nav ul li a {
 #about .about-descr .p-heading {
   font-family: 'Playfair Display', serif;
   font-size: 28px;
-  letter-spacing: 2.8px;
+  letter-spacing: 2.5px;
   text-align: left;
 }
 
